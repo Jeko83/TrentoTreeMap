@@ -1,0 +1,8960 @@
+
+Analyzed species : Acer pseudoplatanus
+Occasions : 171
+Values : 
+count    166.000000
+mean       7.599398
+std        3.529194
+min        3.000000
+25%        5.000000
+50%        6.500000
+75%        9.000000
+max       17.000000
+Name: h_m, dtype: float64
+
+count    164.000000
+mean      24.588598
+std       14.023092
+min        2.000000
+25%       12.000000
+50%       23.000000
+75%       33.815000
+max       64.000000
+Name: diam_tronc, dtype: float64
+
+count    163.000000
+mean       4.760736
+std        2.836239
+min        1.000000
+25%        2.750000
+50%        4.000000
+75%        6.000000
+max       12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.599397590361446
+widthMean=24.588597560975607
+crownWidthMean=4.7607361963190185
+
+
+
+Analyzed species : Cupressus
+Occasions : 562
+Values : 
+count    153.000000
+mean       8.627451
+std        5.000174
+min        3.000000
+25%        5.000000
+50%        7.000000
+75%       12.000000
+max       27.000000
+Name: h_m, dtype: float64
+
+count    153.000000
+mean      26.238431
+std       19.771128
+min        7.000000
+25%       11.000000
+50%       18.000000
+75%       30.560000
+max       95.810000
+Name: diam_tronc, dtype: float64
+
+count    153.000000
+mean       2.341176
+std        2.100925
+min        0.500000
+25%        1.000000
+50%        1.000000
+75%        3.000000
+max       11.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.627450980392156
+widthMean=26.238431372549023
+crownWidthMean=2.3411764705882354
+
+
+
+Analyzed species : Acer platanoides
+Occasions : 157
+Values : 
+count    135.000000
+mean       6.900000
+std        2.353784
+min        3.000000
+25%        5.000000
+50%        6.000000
+75%        8.000000
+max       13.000000
+Name: h_m, dtype: float64
+
+count    135.000000
+mean      23.392889
+std       10.765564
+min        2.860000
+25%       15.000000
+50%       22.000000
+75%       30.000000
+max       80.000000
+Name: diam_tronc, dtype: float64
+
+count    135.000000
+mean       5.744444
+std        2.758884
+min        1.000000
+25%        3.000000
+50%        6.000000
+75%        8.000000
+max       12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.9
+widthMean=23.392888888888887
+crownWidthMean=5.7444444444444445
+
+
+
+Analyzed species : Sophora japonica
+Occasions : 376
+Values : 
+count    375.000000
+mean       7.728000
+std        3.591715
+min        2.000000
+25%        5.000000
+50%        6.000000
+75%       10.000000
+max       16.000000
+Name: h_m, dtype: float64
+
+count    375.000000
+mean      24.875387
+std       17.705407
+min        4.000000
+25%       12.000000
+50%       18.000000
+75%       36.000000
+max      123.000000
+Name: diam_tronc, dtype: float64
+
+count    375.000000
+mean       6.209333
+std        3.464610
+min        1.000000
+25%        3.000000
+50%        6.000000
+75%        9.000000
+max       15.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.728
+widthMean=24.875386666666667
+crownWidthMean=6.209333333333333
+
+
+
+Analyzed species : Tilia cordata
+Occasions : 509
+Values : 
+count    499.000000
+mean       6.408818
+std        3.490981
+min        1.000000
+25%        4.000000
+50%        5.000000
+75%        7.000000
+max       21.000000
+Name: h_m, dtype: float64
+
+count    499.000000
+mean      18.560581
+std       13.942103
+min        5.000000
+25%       10.000000
+50%       14.000000
+75%       22.000000
+max       91.350000
+Name: diam_tronc, dtype: float64
+
+count    499.000000
+mean       4.359719
+std        2.528226
+min        0.500000
+25%        2.500000
+50%        4.000000
+75%        6.000000
+max       12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.408817635270541
+widthMean=18.56058116232465
+crownWidthMean=4.359719438877756
+
+
+
+Analyzed species : Acer campestre
+Occasions : 458
+Values : 
+count    437.000000
+mean       5.249451
+std        2.155592
+min        2.000000
+25%        4.000000
+50%        4.500000
+75%        6.000000
+max       15.000000
+Name: h_m, dtype: float64
+
+count    437.000000
+mean      15.104577
+std        8.757080
+min        5.000000
+25%        8.000000
+50%       12.000000
+75%       19.000000
+max       72.000000
+Name: diam_tronc, dtype: float64
+
+count    437.000000
+mean       3.410755
+std        1.912669
+min        1.000000
+25%        2.000000
+50%        3.000000
+75%        4.000000
+max       10.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.249450800915333
+widthMean=15.104576659038901
+crownWidthMean=3.4107551487414187
+
+
+
+Analyzed species : Acer ginnala
+Occasions : 6
+Values : 
+count    6.0
+mean     4.0
+std      0.0
+min      4.0
+25%      4.0
+50%      4.0
+75%      4.0
+max      4.0
+Name: h_m, dtype: float64
+
+count    6.000000
+mean     4.666667
+std      0.516398
+min      4.000000
+25%      4.250000
+50%      5.000000
+75%      5.000000
+max      5.000000
+Name: diam_tronc, dtype: float64
+
+count    6.0
+mean     2.0
+std      0.0
+min      2.0
+25%      2.0
+50%      2.0
+75%      2.0
+max      2.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.0
+widthMean=4.666666666666667
+crownWidthMean=2.0
+
+
+
+Analyzed species : Fagus
+Occasions : 142
+Values : 
+count    140.000000
+mean       6.764286
+std        4.063543
+min        0.000000
+25%        4.375000
+50%        5.000000
+75%        8.000000
+max       23.000000
+Name: h_m, dtype: float64
+
+count    135.000000
+mean      27.970370
+std       26.427298
+min        0.000000
+25%       10.000000
+50%       20.000000
+75%       30.000000
+max      135.000000
+Name: diam_tronc, dtype: float64
+
+count    140.000000
+mean       4.475000
+std        3.699759
+min        0.000000
+25%        1.500000
+50%        4.000000
+75%        5.250000
+max       16.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.764285714285714
+widthMean=27.97037037037037
+crownWidthMean=4.475
+
+
+
+Analyzed species : Acer opalus
+Occasions : 1
+Values : 
+count    1.0
+mean     5.0
+std      NaN
+min      5.0
+25%      5.0
+50%      5.0
+75%      5.0
+max      5.0
+Name: h_m, dtype: float64
+
+count    1.0
+mean     6.0
+std      NaN
+min      6.0
+25%      6.0
+50%      6.0
+75%      6.0
+max      6.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     2.0
+std      NaN
+min      2.0
+25%      2.0
+50%      2.0
+75%      2.0
+max      2.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.0
+widthMean=6.0
+crownWidthMean=2.0
+
+
+
+Analyzed species : Sorbus
+Occasions : 42
+Values : 
+count    38.000000
+mean      4.473684
+std       1.108611
+min       1.000000
+25%       4.000000
+50%       4.500000
+75%       5.000000
+max       6.000000
+Name: h_m, dtype: float64
+
+count     38.000000
+mean      20.184211
+std       26.094273
+min        5.000000
+25%        8.000000
+50%       11.000000
+75%       20.000000
+max      123.000000
+Name: diam_tronc, dtype: float64
+
+count    38.000000
+mean      2.907895
+std       2.079031
+min       1.000000
+25%       1.125000
+50%       3.000000
+75%       3.000000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.473684210526316
+widthMean=20.18421052631579
+crownWidthMean=2.9078947368421053
+
+
+
+Analyzed species : Carpinus betulus
+Occasions : 536
+Values : 
+count    533.000000
+mean       6.185741
+std        3.083918
+min        0.000000
+25%        4.000000
+50%        5.000000
+75%        8.000000
+max       25.000000
+Name: h_m, dtype: float64
+
+count    533.000000
+mean      17.023452
+std        9.204917
+min        0.000000
+25%       10.000000
+50%       16.000000
+75%       20.000000
+max       70.000000
+Name: diam_tronc, dtype: float64
+
+count    533.000000
+mean       3.577861
+std        2.086710
+min        0.000000
+25%        2.000000
+50%        3.000000
+75%        4.000000
+max       18.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.185741088180112
+widthMean=17.0234521575985
+crownWidthMean=3.5778611632270167
+
+
+
+Analyzed species : Prunus avium
+Occasions : 208
+Values : 
+count    201.000000
+mean       5.268657
+std        2.163322
+min        2.000000
+25%        4.000000
+50%        5.000000
+75%        6.000000
+max       16.000000
+Name: h_m, dtype: float64
+
+count    201.000000
+mean      19.990796
+std       12.643515
+min        3.000000
+25%        8.000000
+50%       18.000000
+75%       28.000000
+max       80.000000
+Name: diam_tronc, dtype: float64
+
+count    201.000000
+mean       3.878109
+std        1.773786
+min        1.000000
+25%        3.000000
+50%        4.000000
+75%        4.000000
+max       14.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.268656716417911
+widthMean=19.990796019900497
+crownWidthMean=3.8781094527363185
+
+
+
+Analyzed species : Fraxinus
+Occasions : 514
+Values : 
+count    413.000000
+mean       5.771913
+std        2.475096
+min        0.000000
+25%        4.000000
+50%        5.000000
+75%        6.000000
+max       25.000000
+Name: h_m, dtype: float64
+
+count    407.000000
+mean      16.563219
+std       10.166378
+min        0.000000
+25%        8.000000
+50%       15.000000
+75%       21.000000
+max       80.000000
+Name: diam_tronc, dtype: float64
+
+count    407.000000
+mean       4.122604
+std        2.728572
+min        1.000000
+25%        2.000000
+50%        3.000000
+75%        6.000000
+max       22.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.771912832929782
+widthMean=16.56321867321867
+crownWidthMean=4.1226044226044225
+
+
+
+Analyzed species : Prunus serrulata
+Occasions : 20
+Values : 
+count    20.000000
+mean      4.575000
+std       1.330562
+min       3.000000
+25%       3.000000
+50%       4.500000
+75%       6.000000
+max       6.000000
+Name: h_m, dtype: float64
+
+count     20.000000
+mean      20.450000
+std       25.125946
+min        6.000000
+25%        7.500000
+50%       17.000000
+75%       22.000000
+max      123.000000
+Name: diam_tronc, dtype: float64
+
+count    20.0000
+mean      3.7750
+std       2.1056
+min       1.0000
+25%       1.7500
+50%       4.0000
+75%       6.0000
+max       6.0000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.575
+widthMean=20.45
+crownWidthMean=3.775
+
+
+
+Analyzed species : Parrotia persica
+Occasions : 272
+Values : 
+count    272.000000
+mean       4.667279
+std        2.920938
+min        2.000000
+25%        3.500000
+50%        4.000000
+75%        5.000000
+max       47.000000
+Name: h_m, dtype: float64
+
+count    272.000000
+mean      11.937500
+std        4.294416
+min        5.730000
+25%        8.750000
+50%       11.250000
+75%       14.000000
+max       30.000000
+Name: diam_tronc, dtype: float64
+
+count    272.000000
+mean       2.476103
+std        1.550615
+min        1.000000
+25%        1.500000
+50%        2.000000
+75%        3.000000
+max        9.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.667279411764706
+widthMean=11.9375
+crownWidthMean=2.4761029411764706
+
+
+
+Analyzed species : Ostrya carpinifolia
+Occasions : 211
+Values : 
+count    139.000000
+mean       6.978417
+std        3.119522
+min        3.000000
+25%        5.000000
+50%        6.000000
+75%        9.500000
+max       16.000000
+Name: h_m, dtype: float64
+
+count    139.000000
+mean      22.433022
+std       13.571975
+min        7.000000
+25%       15.000000
+50%       19.000000
+75%       25.000000
+max      123.000000
+Name: diam_tronc, dtype: float64
+
+count    139.000000
+mean       3.758993
+std        2.252497
+min        1.000000
+25%        2.250000
+50%        4.000000
+75%        5.000000
+max       18.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.9784172661870505
+widthMean=22.433021582733815
+crownWidthMean=3.758992805755396
+
+
+
+Analyzed species : Celtis australis
+Occasions : 1028
+Values : 
+count    966.000000
+mean       8.250518
+std        3.730545
+min        0.000000
+25%        5.000000
+50%        7.000000
+75%       10.000000
+max       25.000000
+Name: h_m, dtype: float64
+
+count    966.000000
+mean      30.065683
+std       17.791786
+min        0.000000
+25%       17.000000
+50%       25.000000
+75%       40.000000
+max      166.000000
+Name: diam_tronc, dtype: float64
+
+count    966.000000
+mean       6.692029
+std        3.107675
+min        0.000000
+25%        4.000000
+50%        6.000000
+75%        9.000000
+max       17.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.250517598343686
+widthMean=30.06568322981366
+crownWidthMean=6.692028985507246
+
+
+
+Analyzed species : Robinia pseudoacacia
+Occasions : 269
+Values : 
+count    175.000000
+mean      11.305714
+std        4.291059
+min        3.000000
+25%        8.000000
+50%       11.000000
+75%       14.000000
+max       25.000000
+Name: h_m, dtype: float64
+
+count    175.000000
+mean      36.185371
+std       19.913042
+min        4.000000
+25%       22.000000
+50%       35.000000
+75%       47.875000
+max      100.000000
+Name: diam_tronc, dtype: float64
+
+count    175.000000
+mean       5.920000
+std        3.166709
+min        1.000000
+25%        4.000000
+50%        6.000000
+75%        7.750000
+max       18.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=11.305714285714286
+widthMean=36.18537142857143
+crownWidthMean=5.92
+
+
+
+Analyzed species : Betula pendula
+Occasions : 130
+Values : 
+count    128.000000
+mean       8.257812
+std        3.617534
+min        3.000000
+25%        6.000000
+50%        6.000000
+75%       12.000000
+max       17.000000
+Name: h_m, dtype: float64
+
+count    128.000000
+mean      23.764297
+std        8.652084
+min        9.000000
+25%       18.000000
+50%       24.000000
+75%       29.000000
+max       47.110000
+Name: diam_tronc, dtype: float64
+
+count    128.000000
+mean       4.675781
+std        2.532925
+min        2.000000
+25%        2.500000
+50%        4.000000
+75%        6.000000
+max       12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.2578125
+widthMean=23.764296875
+crownWidthMean=4.67578125
+
+
+
+Analyzed species : Picea abies
+Occasions : 130
+Values : 
+count    110.000000
+mean      11.909091
+std        4.928005
+min        3.000000
+25%        8.000000
+50%       12.000000
+75%       16.000000
+max       22.000000
+Name: h_m, dtype: float64
+
+count    110.000000
+mean      34.947273
+std       14.900814
+min        5.000000
+25%       25.250000
+50%       35.000000
+75%       44.750000
+max       80.000000
+Name: diam_tronc, dtype: float64
+
+count    110.000000
+mean       5.290909
+std        2.416858
+min        1.000000
+25%        4.000000
+50%        5.000000
+75%        6.000000
+max       15.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=11.909090909090908
+widthMean=34.947272727272725
+crownWidthMean=5.290909090909091
+
+
+
+Analyzed species : Quercus robur
+Occasions : 272
+Values : 
+count    260.000000
+mean       6.034615
+std        2.290815
+min        2.000000
+25%        5.000000
+50%        6.000000
+75%        7.000000
+max       20.000000
+Name: h_m, dtype: float64
+
+count    260.000000
+mean      16.417308
+std       10.531800
+min        3.500000
+25%        8.000000
+50%       15.000000
+75%       20.250000
+max       78.000000
+Name: diam_tronc, dtype: float64
+
+count    260.000000
+mean       3.905769
+std        2.531989
+min        1.000000
+25%        2.000000
+50%        3.000000
+75%        6.000000
+max       20.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.0346153846153845
+widthMean=16.41730769230769
+crownWidthMean=3.9057692307692307
+
+
+
+Analyzed species : Pinus nigra
+Occasions : 335
+Values : 
+count    276.000000
+mean      10.681159
+std        3.709419
+min        4.000000
+25%        7.000000
+50%       11.000000
+75%       14.000000
+max       18.000000
+Name: h_m, dtype: float64
+
+count    276.000000
+mean      34.608514
+std       10.397290
+min       15.000000
+25%       28.000000
+50%       31.000000
+75%       40.000000
+max       80.000000
+Name: diam_tronc, dtype: float64
+
+count    276.000000
+mean       5.307971
+std        1.478110
+min        3.000000
+25%        4.000000
+50%        6.000000
+75%        6.000000
+max       10.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=10.681159420289855
+widthMean=34.60851449275363
+crownWidthMean=5.307971014492754
+
+
+
+Analyzed species : Pyrus calleryana
+Occasions : 167
+Values : 
+count    167.000000
+mean       7.209581
+std        2.629381
+min        2.500000
+25%        5.000000
+50%        6.500000
+75%       10.000000
+max       14.000000
+Name: h_m, dtype: float64
+
+count    167.000000
+mean      17.365269
+std        7.464260
+min        7.000000
+25%       12.000000
+50%       15.000000
+75%       22.500000
+max       38.000000
+Name: diam_tronc, dtype: float64
+
+count    166.000000
+mean       4.605422
+std        2.536886
+min        1.000000
+25%        2.500000
+50%        4.000000
+75%        7.000000
+max       10.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.209580838323354
+widthMean=17.365269461077844
+crownWidthMean=4.605421686746988
+
+
+
+Analyzed species : Liriodendron tulipifera
+Occasions : 301
+Values : 
+count    296.000000
+mean       5.677365
+std        2.752157
+min        2.000000
+25%        4.000000
+50%        5.000000
+75%        6.000000
+max       24.000000
+Name: h_m, dtype: float64
+
+count    296.000000
+mean      15.979122
+std       11.971860
+min        5.000000
+25%        9.000000
+50%       13.000000
+75%       18.000000
+max      123.000000
+Name: diam_tronc, dtype: float64
+
+count    296.000000
+mean       3.310811
+std        1.828592
+min        1.000000
+25%        2.000000
+50%        3.000000
+75%        4.000000
+max       14.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.677364864864865
+widthMean=15.979121621621621
+crownWidthMean=3.310810810810811
+
+
+
+Analyzed species : Acer
+Occasions : 1273
+Values : 
+count    1244.000000
+mean        6.842512
+std         3.169631
+min         1.500000
+25%         4.000000
+50%         6.000000
+75%         9.000000
+max        18.000000
+Name: h_m, dtype: float64
+
+count    1239.000000
+mean       22.277901
+std        14.674561
+min         2.000000
+25%        11.070000
+50%        19.000000
+75%        29.000000
+max       123.000000
+Name: diam_tronc, dtype: float64
+
+count    1239.000000
+mean        4.828563
+std         2.838195
+min         1.000000
+25%         2.500000
+50%         4.000000
+75%         6.000000
+max        16.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.842512423449381
+widthMean=22.277901411075224
+crownWidthMean=4.828562974553591
+
+
+
+Analyzed species : Juglans
+Occasions : 24
+Values : 
+count    21.000000
+mean      8.285714
+std       7.322178
+min       4.000000
+25%       4.000000
+50%       5.000000
+75%       8.000000
+max      30.000000
+Name: h_m, dtype: float64
+
+count    21.000000
+mean     28.095238
+std      11.982924
+min      15.000000
+25%      22.000000
+50%      22.000000
+75%      34.000000
+max      60.000000
+Name: diam_tronc, dtype: float64
+
+count    21.000000
+mean      6.047619
+std       3.427480
+min       3.000000
+25%       3.000000
+50%       5.000000
+75%       8.000000
+max      14.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.285714285714286
+widthMean=28.095238095238095
+crownWidthMean=6.0476190476190474
+
+
+
+Analyzed species : Acacia
+Occasions : 1
+Values : 
+count     1.0
+mean     14.0
+std       NaN
+min      14.0
+25%      14.0
+50%      14.0
+75%      14.0
+max      14.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     40.0
+std       NaN
+min      40.0
+25%      40.0
+50%      40.0
+75%      40.0
+max      40.0
+Name: diam_tronc, dtype: float64
+
+count     1.0
+mean     10.0
+std       NaN
+min      10.0
+25%      10.0
+50%      10.0
+75%      10.0
+max      10.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=14.0
+widthMean=40.0
+crownWidthMean=10.0
+
+
+
+Analyzed species : Crataegus
+Occasions : 48
+Values : 
+count    41.000000
+mean      3.817073
+std       0.966670
+min       2.500000
+25%       3.000000
+50%       3.500000
+75%       5.000000
+max       6.000000
+Name: h_m, dtype: float64
+
+count      40.000000
+mean       72.600000
+std       396.113413
+min         6.000000
+25%         8.000000
+50%         9.000000
+75%        10.000000
+max      2515.000000
+Name: diam_tronc, dtype: float64
+
+count    40.000000
+mean      2.175000
+std       0.873763
+min       1.000000
+25%       1.500000
+50%       2.000000
+75%       3.000000
+max       4.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=3.817073170731707
+widthMean=72.6
+crownWidthMean=2.175
+
+
+
+Analyzed species : Koelreuteria paniculata
+Occasions : 14
+Values : 
+count    13.000000
+mean      6.923077
+std       2.139374
+min       4.000000
+25%       5.000000
+50%       6.000000
+75%       9.000000
+max      10.000000
+Name: h_m, dtype: float64
+
+count    13.000000
+mean     30.307692
+std      13.079148
+min       5.000000
+25%      21.000000
+50%      30.000000
+75%      40.000000
+max      50.000000
+Name: diam_tronc, dtype: float64
+
+count    13.000000
+mean      6.538462
+std       2.875627
+min       3.000000
+25%       4.000000
+50%       7.000000
+75%       8.000000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.923076923076923
+widthMean=30.307692307692307
+crownWidthMean=6.538461538461538
+
+
+
+Analyzed species : Pinus
+Occasions : 413
+Values : 
+count    401.000000
+mean      10.798475
+std        3.714065
+min        3.000000
+25%        8.000000
+50%       10.681159
+75%       14.000000
+max       26.000000
+Name: h_m, dtype: float64
+
+count    401.000000
+mean      35.644968
+std       10.564114
+min       14.000000
+25%       29.000000
+50%       34.608514
+75%       40.000000
+max       82.120000
+Name: diam_tronc, dtype: float64
+
+count    401.000000
+mean       5.367008
+std        1.602017
+min        3.000000
+25%        4.000000
+50%        5.307971
+75%        6.000000
+max       12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=10.798474827424194
+widthMean=35.644968466514875
+crownWidthMean=5.367008204127363
+
+
+
+Analyzed species : Abies nordmanniana
+Occasions : 1
+Values : 
+count    1.0
+mean     8.0
+std      NaN
+min      8.0
+25%      8.0
+50%      8.0
+75%      8.0
+max      8.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     32.0
+std       NaN
+min      32.0
+25%      32.0
+50%      32.0
+75%      32.0
+max      32.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     6.0
+std      NaN
+min      6.0
+25%      6.0
+50%      6.0
+75%      6.0
+max      6.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.0
+widthMean=32.0
+crownWidthMean=6.0
+
+
+
+Analyzed species : Prunus cerasifera
+Occasions : 350
+Values : 
+count    338.000000
+mean       4.862426
+std        2.036283
+min        1.500000
+25%        4.000000
+50%        4.000000
+75%        6.000000
+max       12.000000
+Name: h_m, dtype: float64
+
+count    338.000000
+mean      19.647781
+std        9.900706
+min        5.000000
+25%       13.000000
+50%       18.000000
+75%       25.000000
+max       55.000000
+Name: diam_tronc, dtype: float64
+
+count    337.000000
+mean       3.667656
+std        1.901032
+min        0.500000
+25%        2.500000
+50%        3.500000
+75%        4.000000
+max       12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.862426035502959
+widthMean=19.64778106508876
+crownWidthMean=3.6676557863501484
+
+
+
+Analyzed species : Sorbus aucuparia
+Occasions : 16
+Values : 
+count    12.000000
+mean      5.000000
+std       1.044466
+min       3.000000
+25%       4.000000
+50%       5.000000
+75%       6.000000
+max       6.000000
+Name: h_m, dtype: float64
+
+count    12.000000
+mean     10.500000
+std       7.242551
+min       5.000000
+25%       7.000000
+50%       8.000000
+75%      10.000000
+max      32.000000
+Name: diam_tronc, dtype: float64
+
+count    12.000000
+mean      2.583333
+std       0.900337
+min       1.000000
+25%       2.000000
+50%       3.000000
+75%       3.000000
+max       4.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.0
+widthMean=10.5
+crownWidthMean=2.5833333333333335
+
+
+
+Analyzed species : Platanus x hispanica
+Occasions : 502
+Values : 
+count    502.000000
+mean      12.521912
+std        7.844962
+min        2.000000
+25%        6.000000
+50%       10.000000
+75%       20.000000
+max       38.000000
+Name: h_m, dtype: float64
+
+count    502.000000
+mean      54.125837
+std       53.141335
+min        6.000000
+25%       14.000000
+50%       28.000000
+75%       90.000000
+max      230.000000
+Name: diam_tronc, dtype: float64
+
+count    479.000000
+mean       9.609603
+std        6.315948
+min        1.000000
+25%        4.000000
+50%        8.000000
+75%       14.000000
+max       26.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=12.52191235059761
+widthMean=54.12583665338645
+crownWidthMean=9.609603340292276
+
+
+
+Analyzed species : Corylus colurna
+Occasions : 88
+Values : 
+count    87.000000
+mean      5.913793
+std       2.688484
+min       3.000000
+25%       4.250000
+50%       5.000000
+75%       7.000000
+max      25.000000
+Name: h_m, dtype: float64
+
+count    87.000000
+mean     17.773218
+std       7.331420
+min       6.000000
+25%      14.500000
+50%      18.000000
+75%      20.000000
+max      62.710000
+Name: diam_tronc, dtype: float64
+
+count    87.000000
+mean      4.195402
+std       2.014997
+min       1.000000
+25%       3.000000
+50%       4.000000
+75%       6.000000
+max      10.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.913793103448276
+widthMean=17.773218390804598
+crownWidthMean=4.195402298850575
+
+
+
+Analyzed species : Morus alba
+Occasions : 76
+Values : 
+count    76.000000
+mean      5.269737
+std       1.513144
+min       3.000000
+25%       4.500000
+50%       5.000000
+75%       6.000000
+max      11.000000
+Name: h_m, dtype: float64
+
+count    76.000000
+mean     19.907895
+std       8.650515
+min       6.000000
+25%      15.000000
+50%      18.000000
+75%      23.000000
+max      55.000000
+Name: diam_tronc, dtype: float64
+
+count    76.000000
+mean      5.822368
+std       2.881786
+min       1.000000
+25%       4.500000
+50%       6.000000
+75%       7.000000
+max      18.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.269736842105263
+widthMean=19.907894736842106
+crownWidthMean=5.822368421052632
+
+
+
+Analyzed species : Cupressus sempervirens
+Occasions : 151
+Values : 
+count    111.000000
+mean       7.972973
+std        5.307729
+min        3.000000
+25%        4.500000
+50%        6.000000
+75%       10.000000
+max       27.000000
+Name: h_m, dtype: float64
+
+count    111.000000
+mean      23.587568
+std       19.228063
+min        7.000000
+25%       10.000000
+50%       15.000000
+75%       28.000000
+max       95.810000
+Name: diam_tronc, dtype: float64
+
+count    111.000000
+mean       2.001802
+std        1.841984
+min        0.500000
+25%        1.000000
+50%        1.000000
+75%        2.000000
+max       11.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.972972972972973
+widthMean=23.58756756756757
+crownWidthMean=2.001801801801802
+
+
+
+Analyzed species : Diospyros kaki
+Occasions : 7
+Values : 
+count     6.000000
+mean      7.666667
+std       2.875181
+min       5.000000
+25%       5.250000
+50%       7.000000
+75%       9.500000
+max      12.000000
+Name: h_m, dtype: float64
+
+count     6.000000
+mean     26.000000
+std       4.732864
+min      20.000000
+25%      22.000000
+50%      28.000000
+75%      29.500000
+max      30.000000
+Name: diam_tronc, dtype: float64
+
+count    6.000000
+mean     5.333333
+std      1.366260
+min      4.000000
+25%      4.250000
+50%      5.000000
+75%      6.500000
+max      7.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.666666666666667
+widthMean=26.0
+crownWidthMean=5.333333333333333
+
+
+
+Analyzed species : Fraxinus ornus
+Occasions : 131
+Values : 
+count    34.000000
+mean      6.661765
+std       4.623262
+min       0.000000
+25%       5.000000
+50%       6.000000
+75%       6.000000
+max      25.000000
+Name: h_m, dtype: float64
+
+count    34.000000
+mean     16.293235
+std       9.324301
+min       0.000000
+25%       8.865000
+50%      15.000000
+75%      19.750000
+max      45.000000
+Name: diam_tronc, dtype: float64
+
+count    34.000000
+mean      4.941176
+std       3.878387
+min       1.000000
+25%       3.000000
+50%       3.750000
+75%       5.625000
+max      22.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.661764705882353
+widthMean=16.293235294117647
+crownWidthMean=4.9411764705882355
+
+
+
+Analyzed species : Fraxinus americana
+Occasions : 36
+Values : 
+count    36.000000
+mean      5.805556
+std       2.162267
+min       3.000000
+25%       4.000000
+50%       6.000000
+75%       8.000000
+max      12.000000
+Name: h_m, dtype: float64
+
+count    36.000000
+mean     16.750000
+std       6.867626
+min       5.000000
+25%      10.000000
+50%      17.000000
+75%      20.000000
+max      41.000000
+Name: diam_tronc, dtype: float64
+
+count    36.000000
+mean      3.250000
+std       0.967323
+min       2.000000
+25%       3.000000
+50%       3.000000
+75%       3.000000
+max       8.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.805555555555555
+widthMean=16.75
+crownWidthMean=3.25
+
+
+
+Analyzed species : Fraxinus excelsior
+Occasions : 144
+Values : 
+count    144.000000
+mean       6.197917
+std        2.564019
+min        3.000000
+25%        4.000000
+50%        5.500000
+75%        8.000000
+max       17.000000
+Name: h_m, dtype: float64
+
+count    138.000000
+mean      20.956884
+std       10.723790
+min        4.000000
+25%       13.000000
+50%       19.000000
+75%       25.345000
+max       60.000000
+Name: diam_tronc, dtype: float64
+
+count    138.000000
+mean       5.137681
+std        3.104487
+min        1.500000
+25%        2.000000
+50%        5.000000
+75%        7.000000
+max       16.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.197916666666667
+widthMean=20.956884057971017
+crownWidthMean=5.13768115942029
+
+
+
+Analyzed species : Malus sylvestris
+Occasions : 2
+Values : 
+count    2.0
+mean     4.0
+std      0.0
+min      4.0
+25%      4.0
+50%      4.0
+75%      4.0
+max      4.0
+Name: h_m, dtype: float64
+
+count     2.000000
+mean     25.000000
+std       7.071068
+min      20.000000
+25%      22.500000
+50%      25.000000
+75%      27.500000
+max      30.000000
+Name: diam_tronc, dtype: float64
+
+count    2.000000
+mean     3.500000
+std      0.707107
+min      3.000000
+25%      3.250000
+50%      3.500000
+75%      3.750000
+max      4.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.0
+widthMean=25.0
+crownWidthMean=3.5
+
+
+
+Analyzed species : Morus nigra
+Occasions : 92
+Values : 
+count    82.000000
+mean      4.512195
+std       1.135770
+min       2.000000
+25%       4.000000
+50%       5.000000
+75%       5.000000
+max      10.000000
+Name: h_m, dtype: float64
+
+count    83.000000
+mean     18.590361
+std       8.653261
+min       3.000000
+25%      11.000000
+50%      18.000000
+75%      25.000000
+max      34.000000
+Name: diam_tronc, dtype: float64
+
+count    83.000000
+mean      6.012048
+std       3.318441
+min       1.000000
+25%       3.000000
+50%       6.000000
+75%       8.000000
+max      13.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.512195121951219
+widthMean=18.59036144578313
+crownWidthMean=6.0120481927710845
+
+
+
+Analyzed species : Populus nigra
+Occasions : 110
+Values : 
+count    107.000000
+mean      18.682243
+std        6.130035
+min        8.000000
+25%       16.000000
+50%       18.000000
+75%       20.000000
+max       60.000000
+Name: h_m, dtype: float64
+
+count    107.000000
+mean      69.730935
+std       42.029352
+min       18.000000
+25%       30.000000
+50%       67.000000
+75%       93.900000
+max      220.000000
+Name: diam_tronc, dtype: float64
+
+count    107.000000
+mean       6.560748
+std        4.406636
+min        1.000000
+25%        3.000000
+50%        5.000000
+75%        9.000000
+max       22.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=18.682242990654206
+widthMean=69.73093457943925
+crownWidthMean=6.5607476635514015
+
+
+
+Analyzed species : Prunus domestica
+Occasions : 4
+Values : 
+count    4.000000
+mean     5.000000
+std      1.154701
+min      4.000000
+25%      4.000000
+50%      5.000000
+75%      6.000000
+max      6.000000
+Name: h_m, dtype: float64
+
+count     4.000000
+mean     13.750000
+std       4.787136
+min      10.000000
+25%      10.000000
+50%      12.500000
+75%      16.250000
+max      20.000000
+Name: diam_tronc, dtype: float64
+
+count    4.0
+mean     3.0
+std      0.0
+min      3.0
+25%      3.0
+50%      3.0
+75%      3.0
+max      3.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.0
+widthMean=13.75
+crownWidthMean=3.0
+
+
+
+Analyzed species : Prunus
+Occasions : 667
+Values : 
+count    648.000000
+mean       5.007299
+std        2.002297
+min        1.500000
+25%        4.000000
+50%        5.000000
+75%        6.000000
+max       16.000000
+Name: h_m, dtype: float64
+
+count    647.000000
+mean      19.139057
+std       11.382958
+min        3.000000
+25%       10.000000
+50%       18.000000
+75%       25.000000
+max      123.000000
+Name: diam_tronc, dtype: float64
+
+count    648.000000
+mean       3.731213
+std        1.920251
+min        0.500000
+25%        2.375000
+50%        4.000000
+75%        4.000000
+max       14.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.0072989343224705
+widthMean=19.13905686685603
+crownWidthMean=3.7312134126415217
+
+
+
+Analyzed species : Tilia tomentosa
+Occasions : 4
+Values : 
+count    4.00
+mean     4.75
+std      1.50
+min      4.00
+25%      4.00
+50%      4.00
+75%      4.75
+max      7.00
+Name: h_m, dtype: float64
+
+count     4.0
+mean      8.5
+std       5.0
+min       6.0
+25%       6.0
+50%       6.0
+75%       8.5
+max      16.0
+Name: diam_tronc, dtype: float64
+
+count    4.00
+mean     2.75
+std      1.50
+min      2.00
+25%      2.00
+50%      2.00
+75%      2.75
+max      5.00
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.75
+widthMean=8.5
+crownWidthMean=2.75
+
+
+
+Analyzed species : Tilia x europaea
+Occasions : 471
+Values : 
+count    467.000000
+mean       8.619914
+std        4.562227
+min        3.000000
+25%        5.000000
+50%        7.000000
+75%       12.000000
+max       21.000000
+Name: h_m, dtype: float64
+
+count    468.000000
+mean      29.830641
+std       21.157960
+min        2.000000
+25%       12.000000
+50%       25.000000
+75%       42.000000
+max      105.000000
+Name: diam_tronc, dtype: float64
+
+count    468.000000
+mean       5.564103
+std        3.363610
+min        0.000000
+25%        2.500000
+50%        5.000000
+75%        8.000000
+max       14.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.619914346895074
+widthMean=29.830641025641025
+crownWidthMean=5.564102564102564
+
+
+
+Analyzed species : Ulmus
+Occasions : 140
+Values : 
+count    116.000000
+mean      12.396552
+std        5.460736
+min        4.000000
+25%        8.000000
+50%       12.500000
+75%       16.000000
+max       23.000000
+Name: h_m, dtype: float64
+
+count    114.000000
+mean      57.544561
+std       30.350670
+min        5.000000
+25%       38.650000
+50%       60.000000
+75%       73.000000
+max      180.000000
+Name: diam_tronc, dtype: float64
+
+count    114.000000
+mean       8.758772
+std        4.393898
+min        2.000000
+25%        5.000000
+50%        8.000000
+75%       12.000000
+max       26.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=12.39655172413793
+widthMean=57.54456140350877
+crownWidthMean=8.758771929824562
+
+
+
+Analyzed species : Pyrus communis
+Occasions : 21
+Values : 
+count    21.000000
+mean      5.095238
+std       2.643951
+min       2.000000
+25%       3.000000
+50%       5.000000
+75%       6.000000
+max      12.000000
+Name: h_m, dtype: float64
+
+count    21.00000
+mean     19.52381
+std      10.92071
+min       3.00000
+25%      13.00000
+50%      20.00000
+75%      25.00000
+max      40.00000
+Name: diam_tronc, dtype: float64
+
+count    21.000000
+mean      2.595238
+std       0.700340
+min       1.000000
+25%       2.000000
+50%       3.000000
+75%       3.000000
+max       4.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.095238095238095
+widthMean=19.523809523809526
+crownWidthMean=2.5952380952380953
+
+
+
+Analyzed species : Magnolia x soulangeana
+Occasions : 13
+Values : 
+count    13.000000
+mean      4.807692
+std       1.346886
+min       3.000000
+25%       3.000000
+50%       5.000000
+75%       6.000000
+max       6.000000
+Name: h_m, dtype: float64
+
+count    13.000000
+mean     12.157692
+std       5.723338
+min       6.050000
+25%      10.000000
+50%      10.000000
+75%      10.000000
+max      25.000000
+Name: diam_tronc, dtype: float64
+
+count    13.000000
+mean      5.576923
+std       4.172560
+min       1.000000
+25%       1.000000
+50%       6.000000
+75%       8.000000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.8076923076923075
+widthMean=12.157692307692308
+crownWidthMean=5.576923076923077
+
+
+
+Analyzed species : Tilia platyphyllos
+Occasions : 61
+Values : 
+count    61.000000
+mean      8.311475
+std       4.363832
+min       3.500000
+25%       5.000000
+50%       6.000000
+75%      12.000000
+max      19.000000
+Name: h_m, dtype: float64
+
+count    61.000000
+mean     24.955410
+std      18.790457
+min       3.180000
+25%      12.000000
+50%      16.000000
+75%      29.000000
+max      75.000000
+Name: diam_tronc, dtype: float64
+
+count    61.000000
+mean      6.180328
+std       3.110510
+min       1.000000
+25%       4.000000
+50%       5.000000
+75%       8.000000
+max      14.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.311475409836065
+widthMean=24.955409836065574
+crownWidthMean=6.180327868852459
+
+
+
+Analyzed species : Tilia
+Occasions : 1102
+Values : 
+count    1097.000000
+mean        7.456762
+std         4.132817
+min         0.000000
+25%         4.000000
+50%         6.000000
+75%         9.000000
+max        21.000000
+Name: h_m, dtype: float64
+
+count    1097.000000
+mean       23.703599
+std        18.253703
+min         0.000000
+25%        10.000000
+50%        17.000000
+75%        30.000000
+max       105.000000
+Name: diam_tronc, dtype: float64
+
+count    1097.000000
+mean        5.041928
+std         2.964799
+min         0.000000
+25%         2.500000
+50%         4.000000
+75%         7.000000
+max        14.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.456761926837088
+widthMean=23.703598664266334
+crownWidthMean=5.041927648392173
+
+
+
+Analyzed species : Pinus sylvestris
+Occasions : 30
+Values : 
+count    26.000000
+mean      7.692308
+std       3.133933
+min       4.000000
+25%       6.000000
+50%       6.000000
+75%       8.000000
+max      18.000000
+Name: h_m, dtype: float64
+
+count    26.000000
+mean     33.451923
+std       9.811671
+min      25.000000
+25%      27.250000
+50%      29.000000
+75%      36.662500
+max      65.000000
+Name: diam_tronc, dtype: float64
+
+count    26.000000
+mean      4.115385
+std       2.581890
+min       3.000000
+25%       3.000000
+50%       3.000000
+75%       3.750000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.6923076923076925
+widthMean=33.45192307692308
+crownWidthMean=4.115384615384615
+
+
+
+Analyzed species : Cercis siliquastrum
+Occasions : 56
+Values : 
+count    53.000000
+mean      4.471698
+std       1.682532
+min       3.000000
+25%       3.000000
+50%       4.000000
+75%       5.000000
+max       9.000000
+Name: h_m, dtype: float64
+
+count     53.000000
+mean      21.679245
+std       29.896471
+min        4.000000
+25%        8.000000
+50%       12.000000
+75%       20.000000
+max      123.000000
+Name: diam_tronc, dtype: float64
+
+count    53.000000
+mean      3.292453
+std       1.981729
+min       1.000000
+25%       1.000000
+50%       3.000000
+75%       5.000000
+max       7.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.471698113207547
+widthMean=21.67924528301887
+crownWidthMean=3.292452830188679
+
+
+
+Analyzed species : Juglans nigra
+Occasions : 14
+Values : 
+count    14.000000
+mean      5.000000
+std       1.240347
+min       4.000000
+25%       4.000000
+50%       5.000000
+75%       5.000000
+max       8.000000
+Name: h_m, dtype: float64
+
+count    14.000000
+mean     24.142857
+std       6.479045
+min      17.000000
+25%      20.500000
+50%      22.000000
+75%      26.500000
+max      37.000000
+Name: diam_tronc, dtype: float64
+
+count    14.000000
+mean      4.571429
+std       2.064882
+min       3.000000
+25%       3.000000
+50%       3.500000
+75%       6.000000
+max       9.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.0
+widthMean=24.142857142857142
+crownWidthMean=4.571428571428571
+
+
+
+Analyzed species : Malus
+Occasions : 30
+Values : 
+count    30.000000
+mean      4.133333
+std       1.008014
+min       2.000000
+25%       4.000000
+50%       4.000000
+75%       4.000000
+max       6.000000
+Name: h_m, dtype: float64
+
+count    30.000000
+mean     17.066667
+std       5.842374
+min       5.000000
+25%      15.000000
+50%      18.000000
+75%      18.000000
+max      30.000000
+Name: diam_tronc, dtype: float64
+
+count    30.000000
+mean      3.066667
+std       1.112107
+min       1.000000
+25%       3.000000
+50%       3.000000
+75%       4.000000
+max       6.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.133333333333334
+widthMean=17.066666666666666
+crownWidthMean=3.066666666666667
+
+
+
+Analyzed species : Metasequoia glyptostroboides
+Occasions : 8
+Values : 
+count     8.000000
+mean     11.375000
+std       6.653409
+min       6.000000
+25%       8.250000
+50%       9.000000
+75%      11.250000
+max      25.000000
+Name: h_m, dtype: float64
+
+count     8.000000
+mean     33.375000
+std      20.409644
+min       7.000000
+25%      24.250000
+50%      30.000000
+75%      48.500000
+max      65.000000
+Name: diam_tronc, dtype: float64
+
+count     8.00000
+mean      5.75000
+std       2.60494
+min       4.00000
+25%       4.75000
+50%       5.00000
+75%       5.25000
+max      12.00000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=11.375
+widthMean=33.375
+crownWidthMean=5.75
+
+
+
+Analyzed species : Quercus rubra
+Occasions : 148
+Values : 
+count    148.000000
+mean       7.010135
+std        4.042912
+min        3.000000
+25%        4.500000
+50%        6.000000
+75%        7.000000
+max       21.000000
+Name: h_m, dtype: float64
+
+count    148.000000
+mean      19.995338
+std       14.594419
+min        3.000000
+25%       11.750000
+50%       16.000000
+75%       26.250000
+max      123.000000
+Name: diam_tronc, dtype: float64
+
+count    148.000000
+mean       4.635135
+std        2.896511
+min        1.000000
+25%        2.875000
+50%        4.000000
+75%        6.000000
+max       21.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.010135135135135
+widthMean=19.995337837837837
+crownWidthMean=4.635135135135135
+
+
+
+Analyzed species : Alnus
+Occasions : 91
+Values : 
+count    91.000000
+mean      6.478022
+std       2.356919
+min       3.000000
+25%       5.500000
+50%       6.000000
+75%       7.000000
+max      18.000000
+Name: h_m, dtype: float64
+
+count    91.000000
+mean     16.868132
+std      13.612257
+min       5.000000
+25%      12.000000
+50%      12.000000
+75%      15.000000
+max      80.000000
+Name: diam_tronc, dtype: float64
+
+count    91.000000
+mean      3.598901
+std       1.241012
+min       1.000000
+25%       3.000000
+50%       3.000000
+75%       4.000000
+max       8.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.478021978021978
+widthMean=16.86813186813187
+crownWidthMean=3.598901098901099
+
+
+
+Analyzed species : Salix babylonica
+Occasions : 9
+Values : 
+count     9.000000
+mean      8.555556
+std       2.068279
+min       6.000000
+25%       7.000000
+50%       8.000000
+75%      10.000000
+max      12.000000
+Name: h_m, dtype: float64
+
+count     9.000000
+mean     31.111111
+std      14.260474
+min      23.000000
+25%      23.000000
+50%      27.000000
+75%      30.000000
+max      68.000000
+Name: diam_tronc, dtype: float64
+
+count     9.000000
+mean      5.555556
+std       1.666667
+min       5.000000
+25%       5.000000
+50%       5.000000
+75%       5.000000
+max      10.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.555555555555555
+widthMean=31.11111111111111
+crownWidthMean=5.555555555555555
+
+
+
+Analyzed species : Thuja occidentalis
+Occasions : 2
+Values : 
+count     2.000000
+mean      8.000000
+std       5.656854
+min       4.000000
+25%       6.000000
+50%       8.000000
+75%      10.000000
+max      12.000000
+Name: h_m, dtype: float64
+
+count     2.00000
+mean     27.50000
+std      17.67767
+min      15.00000
+25%      21.25000
+50%      27.50000
+75%      33.75000
+max      40.00000
+Name: diam_tronc, dtype: float64
+
+count    2.00000
+mean     3.50000
+std      2.12132
+min      2.00000
+25%      2.75000
+50%      3.50000
+75%      4.25000
+max      5.00000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.0
+widthMean=27.5
+crownWidthMean=3.5
+
+
+
+Analyzed species : Platanus x acerifolia
+Occasions : 220
+Values : 
+count    208.000000
+mean      10.771635
+std        6.219574
+min        4.000000
+25%        6.000000
+50%        8.000000
+75%       12.000000
+max       26.000000
+Name: h_m, dtype: float64
+
+count    208.000000
+mean      35.695144
+std       27.390873
+min        8.000000
+25%       19.000000
+50%       23.500000
+75%       38.500000
+max      135.000000
+Name: diam_tronc, dtype: float64
+
+count    208.000000
+mean       6.995192
+std        3.941906
+min        2.000000
+25%        4.000000
+50%        6.000000
+75%        8.000000
+max       20.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=10.771634615384615
+widthMean=35.69514423076923
+crownWidthMean=6.9951923076923075
+
+
+
+Analyzed species : Prunus dulcis
+Occasions : 21
+Values : 
+count    21.000000
+mean      5.142857
+std       0.963624
+min       4.000000
+25%       5.000000
+50%       5.000000
+75%       5.000000
+max       9.000000
+Name: h_m, dtype: float64
+
+count    21.000000
+mean      8.273374
+std       7.889936
+min       4.000000
+25%       6.000000
+50%       6.000000
+75%       6.000000
+max      33.740848
+Name: diam_tronc, dtype: float64
+
+count    21.000000
+mean      2.285714
+std       0.956183
+min       2.000000
+25%       2.000000
+50%       2.000000
+75%       2.000000
+max       6.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.142857142857143
+widthMean=8.273373711213429
+crownWidthMean=2.2857142857142856
+
+
+
+Analyzed species : Sequoia sempervirens
+Occasions : 1
+Values : 
+count     1.0
+mean     10.0
+std       NaN
+min      10.0
+25%      10.0
+50%      10.0
+75%      10.0
+max      10.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     28.0
+std       NaN
+min      28.0
+25%      28.0
+50%      28.0
+75%      28.0
+max      28.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     4.0
+std      NaN
+min      4.0
+25%      4.0
+50%      4.0
+75%      4.0
+max      4.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=10.0
+widthMean=28.0
+crownWidthMean=4.0
+
+
+
+Analyzed species : Cedrus atlantica
+Occasions : 70
+Values : 
+count    68.000000
+mean     17.132353
+std       4.040483
+min       7.000000
+25%      14.000000
+50%      18.000000
+75%      20.250000
+max      25.000000
+Name: h_m, dtype: float64
+
+count    68.000000
+mean     60.917500
+std      15.212756
+min      33.000000
+25%      50.000000
+50%      63.000000
+75%      70.000000
+max      90.000000
+Name: diam_tronc, dtype: float64
+
+count    68.000000
+mean      8.676471
+std       2.804267
+min       5.000000
+25%       6.000000
+50%       8.000000
+75%      11.000000
+max      16.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=17.13235294117647
+widthMean=60.917500000000004
+crownWidthMean=8.676470588235293
+
+
+
+Analyzed species : Ulmus pumila
+Occasions : 14
+Values : 
+count    14.000000
+mean     16.714286
+std       5.649079
+min       6.000000
+25%      13.750000
+50%      18.000000
+75%      21.000000
+max      23.000000
+Name: h_m, dtype: float64
+
+count    14.000000
+mean     68.000714
+std      17.619894
+min      27.000000
+25%      60.000000
+50%      69.535000
+75%      81.500000
+max      90.000000
+Name: diam_tronc, dtype: float64
+
+count    14.000000
+mean     10.928571
+std       3.931418
+min       5.000000
+25%       8.000000
+50%      11.500000
+75%      13.750000
+max      18.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=16.714285714285715
+widthMean=68.00071428571428
+crownWidthMean=10.928571428571429
+
+
+
+Analyzed species : Cedrus deodara
+Occasions : 246
+Values : 
+count    209.000000
+mean      18.925837
+std        4.988015
+min        5.000000
+25%       16.000000
+50%       19.000000
+75%       23.000000
+max       28.000000
+Name: h_m, dtype: float64
+
+count    209.000000
+mean      71.508708
+std       49.069171
+min       23.000000
+25%       55.000000
+50%       66.000000
+75%       82.000000
+max      705.000000
+Name: diam_tronc, dtype: float64
+
+count    209.000000
+mean       9.358852
+std        3.426485
+min        3.000000
+25%        7.000000
+50%        9.000000
+75%       12.000000
+max       18.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=18.925837320574164
+widthMean=71.5087081339713
+crownWidthMean=9.358851674641148
+
+
+
+Analyzed species : Populus alba
+Occasions : 22
+Values : 
+count    21.000000
+mean     15.809524
+std       4.130606
+min      10.000000
+25%      12.000000
+50%      16.000000
+75%      20.000000
+max      23.000000
+Name: h_m, dtype: float64
+
+count     21.000000
+mean      70.333333
+std       22.276295
+min       45.000000
+25%       60.000000
+50%       66.000000
+75%       78.000000
+max      150.000000
+Name: diam_tronc, dtype: float64
+
+count    21.000000
+mean      9.809524
+std       3.515950
+min       3.000000
+25%       8.000000
+50%       9.000000
+75%      12.000000
+max      16.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=15.80952380952381
+widthMean=70.33333333333333
+crownWidthMean=9.80952380952381
+
+
+
+Analyzed species : Aesculus hippocastanum
+Occasions : 581
+Values : 
+count    562.000000
+mean       8.412100
+std        3.485344
+min        2.000000
+25%        6.000000
+50%        8.250000
+75%       11.000000
+max       22.000000
+Name: h_m, dtype: float64
+
+count    569.000000
+mean      39.551142
+std       21.711519
+min        5.000000
+25%       18.000000
+50%       40.000000
+75%       58.000000
+max      100.000000
+Name: diam_tronc, dtype: float64
+
+count    568.000000
+mean       6.448592
+std        3.274760
+min        1.000000
+25%        4.000000
+50%        6.000000
+75%        8.000000
+max       20.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.412099644128114
+widthMean=39.551142355008786
+crownWidthMean=6.448591549295775
+
+
+
+Analyzed species : Catalpa bignonioides
+Occasions : 18
+Values : 
+count    18.000000
+mean      8.777778
+std       2.712836
+min       4.000000
+25%       7.000000
+50%       8.000000
+75%      11.000000
+max      13.000000
+Name: h_m, dtype: float64
+
+count    18.000000
+mean     47.392222
+std       9.257244
+min      33.420000
+25%      41.000000
+50%      46.920000
+75%      53.952500
+max      65.000000
+Name: diam_tronc, dtype: float64
+
+count    18.000000
+mean      8.222222
+std       2.579456
+min       4.000000
+25%       6.250000
+50%       8.000000
+75%      10.750000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.777777777777779
+widthMean=47.39222222222222
+crownWidthMean=8.222222222222221
+
+
+
+Analyzed species : Quercus ilex
+Occasions : 26
+Values : 
+count    25.00000
+mean      6.00000
+std       3.24037
+min       3.00000
+25%       3.00000
+50%       5.00000
+75%       8.00000
+max      16.00000
+Name: h_m, dtype: float64
+
+count    25.000000
+mean     20.780400
+std      15.164363
+min       5.000000
+25%       6.000000
+50%      19.000000
+75%      26.000000
+max      62.000000
+Name: diam_tronc, dtype: float64
+
+count    25.000000
+mean      4.000000
+std       2.783882
+min       1.000000
+25%       1.000000
+50%       4.000000
+75%       6.000000
+max      11.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.0
+widthMean=20.7804
+crownWidthMean=4.0
+
+
+
+Analyzed species : Pinus wallichiana
+Occasions : 10
+Values : 
+count     6.000000
+mean     19.500000
+std       4.135215
+min      14.000000
+25%      17.500000
+50%      19.000000
+75%      21.250000
+max      26.000000
+Name: h_m, dtype: float64
+
+count     6.000000
+mean     61.608333
+std      10.309336
+min      55.000000
+25%      55.707500
+50%      58.330000
+75%      60.360000
+max      82.120000
+Name: diam_tronc, dtype: float64
+
+count     6.000000
+mean      7.666667
+std       2.250926
+min       6.000000
+25%       6.250000
+50%       7.000000
+75%       7.750000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=19.5
+widthMean=61.60833333333333
+crownWidthMean=7.666666666666667
+
+
+
+Analyzed species : Fraxinus angustifolia
+Occasions : 132
+Values : 
+count    128.000000
+mean       5.146875
+std        1.906844
+min        3.500000
+25%        4.000000
+50%        4.500000
+75%        6.000000
+max       17.000000
+Name: h_m, dtype: float64
+
+count    128.000000
+mean      13.931328
+std       10.919112
+min        4.000000
+25%        8.000000
+50%        9.000000
+75%       18.000000
+max       80.000000
+Name: diam_tronc, dtype: float64
+
+count    128.000000
+mean       3.260937
+std        2.191905
+min        1.000000
+25%        2.000000
+50%        2.000000
+75%        4.000000
+max       14.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.146875
+widthMean=13.931328125
+crownWidthMean=3.2609375
+
+
+
+Analyzed species : Juglans regia
+Occasions : 7
+Values : 
+count     5.000000
+mean     17.200000
+std      11.009087
+min       6.000000
+25%      10.000000
+50%      12.000000
+75%      28.000000
+max      30.000000
+Name: h_m, dtype: float64
+
+count     5.000000
+mean     41.600000
+std      16.742162
+min      15.000000
+25%      40.000000
+50%      43.000000
+75%      50.000000
+max      60.000000
+Name: diam_tronc, dtype: float64
+
+count     5.000000
+mean      8.400000
+std       4.159327
+min       4.000000
+25%       5.000000
+50%       8.000000
+75%      11.000000
+max      14.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=17.2
+widthMean=41.6
+crownWidthMean=8.4
+
+
+
+Analyzed species : Quercus
+Occasions : 575
+Values : 
+count    506.000000
+mean       6.565050
+std        3.209271
+min        2.000000
+25%        5.000000
+50%        6.000000
+75%        7.000000
+max       21.000000
+Name: h_m, dtype: float64
+
+count    506.000000
+mean      18.586202
+std       12.546544
+min        3.000000
+25%       10.000000
+50%       16.000000
+75%       22.750000
+max      123.000000
+Name: diam_tronc, dtype: float64
+
+count    506.000000
+mean       4.297172
+std        2.667988
+min        1.000000
+25%        2.000000
+50%        4.000000
+75%        6.000000
+max       21.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.56505016722408
+widthMean=18.586201763453936
+crownWidthMean=4.297172392824567
+
+
+
+Analyzed species : Nerium oleander
+Occasions : 7
+Values : 
+count    7.000000
+mean     3.571429
+std      0.449868
+min      3.000000
+25%      3.250000
+50%      3.500000
+75%      4.000000
+max      4.000000
+Name: h_m, dtype: float64
+
+count     7.000000
+mean     10.000000
+std       1.154701
+min       8.000000
+25%      10.000000
+50%      10.000000
+75%      10.000000
+max      12.000000
+Name: diam_tronc, dtype: float64
+
+count    7.000000
+mean     1.928571
+std      0.449868
+min      1.000000
+25%      2.000000
+50%      2.000000
+75%      2.000000
+max      2.500000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=3.5714285714285716
+widthMean=10.0
+crownWidthMean=1.9285714285714286
+
+
+
+Analyzed species : Lagerstroemia
+Occasions : 16
+Values : 
+count    15.000000
+mean      3.900000
+std       4.460942
+min       2.500000
+25%       2.500000
+50%       3.000000
+75%       3.000000
+max      20.000000
+Name: h_m, dtype: float64
+
+count    15.000000
+mean      7.266667
+std       9.059065
+min       4.000000
+25%       5.000000
+50%       5.000000
+75%       5.000000
+max      40.000000
+Name: diam_tronc, dtype: float64
+
+count    15.000000
+mean      1.240000
+std       1.092703
+min       0.500000
+25%       0.900000
+50%       1.000000
+75%       1.000000
+max       5.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=3.9
+widthMean=7.266666666666667
+crownWidthMean=1.24
+
+
+
+Analyzed species : Liquidambar styraciflua
+Occasions : 141
+Values : 
+count    138.000000
+mean       6.271739
+std        2.063870
+min        3.000000
+25%        5.000000
+50%        6.000000
+75%        7.000000
+max       14.000000
+Name: h_m, dtype: float64
+
+count    138.000000
+mean      21.054783
+std       12.360940
+min        8.000000
+25%       15.000000
+50%       18.140000
+75%       24.000000
+max      123.000000
+Name: diam_tronc, dtype: float64
+
+count    138.000000
+mean       4.097826
+std        2.008975
+min        1.000000
+25%        3.000000
+50%        4.000000
+75%        6.000000
+max       12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.271739130434782
+widthMean=21.054782608695653
+crownWidthMean=4.0978260869565215
+
+
+
+Analyzed species : Salix
+Occasions : 23
+Values : 
+count    18.000000
+mean     11.777778
+std       5.082329
+min       6.000000
+25%       8.000000
+50%      10.000000
+75%      14.500000
+max      20.000000
+Name: h_m, dtype: float64
+
+count    18.000000
+mean     32.000000
+std      18.528198
+min      10.000000
+25%      23.000000
+50%      27.500000
+75%      41.500000
+max      68.000000
+Name: diam_tronc, dtype: float64
+
+count    18.000000
+mean      5.444444
+std       2.202197
+min       3.000000
+25%       4.250000
+50%       5.000000
+75%       5.750000
+max      10.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=11.777777777777779
+widthMean=32.0
+crownWidthMean=5.444444444444445
+
+
+
+Analyzed species : Taxodium distichum
+Occasions : 12
+Values : 
+count    12.000000
+mean     13.416667
+std       4.870287
+min       6.000000
+25%       9.750000
+50%      16.000000
+75%      17.000000
+max      20.000000
+Name: h_m, dtype: float64
+
+count    12.000000
+mean     44.130000
+std      17.709161
+min      15.000000
+25%      29.000000
+50%      43.500000
+75%      56.042500
+max      74.170000
+Name: diam_tronc, dtype: float64
+
+count    12.000000
+mean      5.166667
+std       2.443296
+min       1.000000
+25%       3.750000
+50%       5.000000
+75%       6.250000
+max      10.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=13.416666666666666
+widthMean=44.13
+crownWidthMean=5.166666666666667
+
+
+
+Analyzed species : Fagus sylvatica
+Occasions : 120
+Values : 
+count    118.000000
+mean       6.855932
+std        4.234122
+min        0.000000
+25%        4.000000
+50%        5.000000
+75%        8.000000
+max       23.000000
+Name: h_m, dtype: float64
+
+count    113.000000
+mean      29.566372
+std       27.582304
+min        0.000000
+25%       12.000000
+50%       20.000000
+75%       35.000000
+max      135.000000
+Name: diam_tronc, dtype: float64
+
+count    118.000000
+mean       4.423729
+std        3.521987
+min        0.000000
+25%        2.000000
+50%        4.000000
+75%        5.000000
+max       16.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.8559322033898304
+widthMean=29.56637168141593
+crownWidthMean=4.423728813559322
+
+
+
+Analyzed species : Ilex
+Occasions : 36
+Values : 
+count    35.000000
+mean      4.757143
+std       3.227573
+min       1.500000
+25%       2.500000
+50%       4.000000
+75%       5.000000
+max      14.000000
+Name: h_m, dtype: float64
+
+count    35.000000
+mean     12.610571
+std       9.605741
+min       6.000000
+25%       7.000000
+50%       8.000000
+75%      12.000000
+max      40.000000
+Name: diam_tronc, dtype: float64
+
+count    35.000000
+mean      2.428571
+std       2.275647
+min       1.000000
+25%       1.000000
+50%       1.500000
+75%       2.000000
+max      10.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.757142857142857
+widthMean=12.61057142857143
+crownWidthMean=2.4285714285714284
+
+
+
+Analyzed species : Platanus occidentalis
+Occasions : 20
+Values : 
+count    20.000000
+mean     14.800000
+std       3.928305
+min       5.000000
+25%      14.000000
+50%      16.000000
+75%      16.000000
+max      23.000000
+Name: h_m, dtype: float64
+
+count     20.000000
+mean      62.250000
+std       23.828057
+min        7.000000
+25%       50.750000
+50%       63.500000
+75%       80.000000
+max      110.000000
+Name: diam_tronc, dtype: float64
+
+count    20.00000
+mean     11.52500
+std       4.13418
+min       1.50000
+25%       9.75000
+50%      13.00000
+75%      14.00000
+max      18.00000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=14.8
+widthMean=62.25
+crownWidthMean=11.525
+
+
+
+Analyzed species : Ulmus minor
+Occasions : 46
+Values : 
+count    46.000000
+mean     10.989130
+std       5.400092
+min       4.000000
+25%       6.250000
+50%      11.000000
+75%      15.000000
+max      22.500000
+Name: h_m, dtype: float64
+
+count     46.000000
+mean      54.934783
+std       31.798953
+min        5.000000
+25%       40.500000
+50%       60.000000
+75%       70.000000
+max      125.000000
+Name: diam_tronc, dtype: float64
+
+count    46.000000
+mean      7.608696
+std       4.730413
+min       2.000000
+25%       5.000000
+50%       8.000000
+75%      10.000000
+max      26.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=10.98913043478261
+widthMean=54.93478260869565
+crownWidthMean=7.608695652173913
+
+
+
+Analyzed species : Pinus strobus
+Occasions : 24
+Values : 
+count    22.000000
+mean     13.363636
+std       4.077178
+min       3.000000
+25%      10.250000
+50%      13.500000
+75%      16.000000
+max      19.000000
+Name: h_m, dtype: float64
+
+count    22.000000
+mean     44.954545
+std      13.524149
+min      14.000000
+25%      38.500000
+50%      49.000000
+75%      50.000000
+max      70.000000
+Name: diam_tronc, dtype: float64
+
+count    22.000000
+mean      6.727273
+std       1.517574
+min       4.000000
+25%       6.000000
+50%       7.000000
+75%       8.000000
+max       9.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=13.363636363636363
+widthMean=44.95454545454545
+crownWidthMean=6.7272727272727275
+
+
+
+Analyzed species : Acer rubrum
+Occasions : 24
+Values : 
+count    24.000000
+mean      6.166667
+std       2.443566
+min       3.000000
+25%       4.000000
+50%       5.500000
+75%       7.250000
+max      11.000000
+Name: h_m, dtype: float64
+
+count     24.000000
+mean      17.813750
+std       23.008156
+min        6.000000
+25%       10.030000
+50%       12.050000
+75%       15.837500
+max      123.000000
+Name: diam_tronc, dtype: float64
+
+count    24.000000
+mean      4.041667
+std       1.988645
+min       1.000000
+25%       3.000000
+50%       3.000000
+75%       6.000000
+max       9.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.166666666666667
+widthMean=17.81375
+crownWidthMean=4.041666666666667
+
+
+
+Analyzed species : Fraxinus oxycarpa
+Occasions : 2
+Values : 
+count    2.000000
+mean     6.500000
+std      0.707107
+min      6.000000
+25%      6.250000
+50%      6.500000
+75%      6.750000
+max      7.000000
+Name: h_m, dtype: float64
+
+count     2.000000
+mean     10.500000
+std       3.535534
+min       8.000000
+25%       9.250000
+50%      10.500000
+75%      11.750000
+max      13.000000
+Name: diam_tronc, dtype: float64
+
+count    2.00000
+mean     2.25000
+std      1.06066
+min      1.50000
+25%      1.87500
+50%      2.25000
+75%      2.62500
+max      3.00000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.5
+widthMean=10.5
+crownWidthMean=2.25
+
+
+
+Analyzed species : Sambucus nigra
+Occasions : 17
+Values : 
+count    14.000000
+mean      4.428571
+std       2.533295
+min       0.000000
+25%       5.000000
+50%       5.000000
+75%       6.000000
+max       8.000000
+Name: h_m, dtype: float64
+
+count    11.000000
+mean     10.454545
+std      12.933396
+min       0.000000
+25%       3.000000
+50%       6.000000
+75%      15.000000
+max      45.000000
+Name: diam_tronc, dtype: float64
+
+count    11.000000
+mean      3.090909
+std       2.211540
+min       0.000000
+25%       1.500000
+50%       4.000000
+75%       4.000000
+max       6.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.428571428571429
+widthMean=10.454545454545455
+crownWidthMean=3.090909090909091
+
+
+
+Analyzed species : Acer negundo
+Occasions : 178
+Values : 
+count    159.000000
+mean       8.654088
+std        2.558771
+min        3.500000
+25%        6.500000
+50%        8.000000
+75%       10.000000
+max       18.000000
+Name: h_m, dtype: float64
+
+count    159.000000
+mean      32.090881
+std       13.164201
+min        7.000000
+25%       22.500000
+50%       30.240000
+75%       40.000000
+max       80.000000
+Name: diam_tronc, dtype: float64
+
+count    159.000000
+mean       7.235849
+std        2.750035
+min        1.500000
+25%        6.000000
+50%        7.000000
+75%        8.000000
+max       16.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.654088050314465
+widthMean=32.09088050314465
+crownWidthMean=7.235849056603773
+
+
+
+Analyzed species : Alnus glutinosa
+Occasions : 6
+Values : 
+count     6.000000
+mean      8.833333
+std       5.564770
+min       5.000000
+25%       5.000000
+50%       5.500000
+75%      13.500000
+max      16.000000
+Name: h_m, dtype: float64
+
+count     6.000000
+mean     32.333333
+std      13.880442
+min      22.000000
+25%      22.000000
+50%      25.000000
+75%      44.500000
+max      50.000000
+Name: diam_tronc, dtype: float64
+
+count    6.000000
+mean     4.333333
+std      0.516398
+min      4.000000
+25%      4.000000
+50%      4.000000
+75%      4.750000
+max      5.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.833333333333334
+widthMean=32.333333333333336
+crownWidthMean=4.333333333333333
+
+
+
+Analyzed species : Magnolia kobus
+Occasions : 1
+Values : 
+count    1.0
+mean     3.5
+std      NaN
+min      3.5
+25%      3.5
+50%      3.5
+75%      3.5
+max      3.5
+Name: h_m, dtype: float64
+
+count    1.0
+mean     5.0
+std      NaN
+min      5.0
+25%      5.0
+50%      5.0
+75%      5.0
+max      5.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     1.0
+std      NaN
+min      1.0
+25%      1.0
+50%      1.0
+75%      1.0
+max      1.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=3.5
+widthMean=5.0
+crownWidthMean=1.0
+
+
+
+Analyzed species : Crataegus monogyna
+Occasions : 5
+Values : 
+count    5.000000
+mean     4.200000
+std      0.758288
+min      3.500000
+25%      3.500000
+50%      4.000000
+75%      5.000000
+max      5.000000
+Name: h_m, dtype: float64
+
+count     4.000000
+mean     12.250000
+std       4.573474
+min       9.000000
+25%       9.750000
+50%      10.500000
+75%      13.000000
+max      19.000000
+Name: diam_tronc, dtype: float64
+
+count    4.000000
+mean     2.875000
+std      0.853913
+min      2.000000
+25%      2.375000
+50%      2.750000
+75%      3.250000
+max      4.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.2
+widthMean=12.25
+crownWidthMean=2.875
+
+
+
+Analyzed species : Acer saccharinum
+Occasions : 89
+Values : 
+count    84.000000
+mean     10.255952
+std       4.280450
+min       3.000000
+25%       7.000000
+50%      11.000000
+75%      14.000000
+max      17.000000
+Name: h_m, dtype: float64
+
+count     84.000000
+mean      37.662024
+std       23.874265
+min       10.000000
+25%       21.832500
+50%       32.075000
+75%       45.000000
+max      123.000000
+Name: diam_tronc, dtype: float64
+
+count    84.000000
+mean      6.613095
+std       3.272145
+min       1.500000
+25%       4.000000
+50%       6.000000
+75%       8.000000
+max      14.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=10.255952380952381
+widthMean=37.66202380952381
+crownWidthMean=6.613095238095238
+
+
+
+Analyzed species : Cedrus
+Occasions : 377
+Values : 
+count    334.000000
+mean      18.607846
+std        4.549054
+min        5.000000
+25%       16.000000
+50%       18.925837
+75%       22.000000
+max       28.000000
+Name: h_m, dtype: float64
+
+count    334.000000
+mean      69.346549
+std       40.220407
+min       10.000000
+25%       55.000000
+50%       70.000000
+75%       79.500000
+max      705.000000
+Name: diam_tronc, dtype: float64
+
+count    333.000000
+mean       9.296188
+std        3.144972
+min        3.000000
+25%        7.000000
+50%        9.358852
+75%       11.000000
+max       18.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=18.6078463674958
+widthMean=69.3465485058591
+crownWidthMean=9.29618754696154
+
+
+
+Analyzed species : Acer monspessulanum
+Occasions : 13
+Values : 
+count    12.000000
+mean      4.250000
+std       0.753778
+min       3.000000
+25%       4.000000
+50%       4.000000
+75%       5.000000
+max       5.000000
+Name: h_m, dtype: float64
+
+count    12.000000
+mean     16.583333
+std       7.751344
+min      10.000000
+25%      12.000000
+50%      13.000000
+75%      19.000000
+max      35.000000
+Name: diam_tronc, dtype: float64
+
+count    12.000000
+mean      3.583333
+std       2.151462
+min       2.000000
+25%       2.000000
+50%       2.500000
+75%       4.750000
+max       7.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.25
+widthMean=16.583333333333332
+crownWidthMean=3.5833333333333335
+
+
+
+Analyzed species : Ginkgo biloba
+Occasions : 59
+Values : 
+count    47.000000
+mean     10.425532
+std       4.451403
+min       4.000000
+25%       7.000000
+50%      10.000000
+75%      12.500000
+max      21.000000
+Name: h_m, dtype: float64
+
+count    47.000000
+mean     38.587660
+std      16.839003
+min      12.000000
+25%      23.500000
+50%      40.000000
+75%      50.000000
+max      75.000000
+Name: diam_tronc, dtype: float64
+
+count    47.000000
+mean      5.989362
+std       2.626142
+min       2.000000
+25%       4.000000
+50%       6.000000
+75%       8.000000
+max      11.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=10.425531914893616
+widthMean=38.587659574468084
+crownWidthMean=5.98936170212766
+
+
+
+Analyzed species : Ligustrum lucidum
+Occasions : 36
+Values : 
+count    32.000000
+mean      7.031250
+std       2.904217
+min       1.500000
+25%       4.750000
+50%       7.000000
+75%       9.000000
+max      12.000000
+Name: h_m, dtype: float64
+
+count    30.000000
+mean     26.559000
+std      14.350453
+min       4.000000
+25%      21.017500
+50%      26.210000
+75%      36.500000
+max      57.000000
+Name: diam_tronc, dtype: float64
+
+count    30.000000
+mean      5.016667
+std       2.313690
+min       1.500000
+25%       3.250000
+50%       5.500000
+75%       6.000000
+max      10.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.03125
+widthMean=26.559
+crownWidthMean=5.016666666666667
+
+
+
+Analyzed species : Ficus carica
+Occasions : 10
+Values : 
+count    7.000000
+mean     4.357143
+std      0.852168
+min      3.500000
+25%      4.000000
+50%      4.000000
+75%      4.500000
+max      6.000000
+Name: h_m, dtype: float64
+
+count     7.000000
+mean     23.571429
+std      10.438026
+min       9.000000
+25%      18.500000
+50%      22.000000
+75%      27.500000
+max      42.000000
+Name: diam_tronc, dtype: float64
+
+count    7.000000
+mean     4.571429
+std      2.149197
+min      2.000000
+25%      3.500000
+50%      4.000000
+75%      5.500000
+max      8.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.357142857142857
+widthMean=23.571428571428573
+crownWidthMean=4.571428571428571
+
+
+
+Analyzed species : Pterocarya
+Occasions : 19
+Values : 
+count    19.000000
+mean      6.447368
+std       3.307797
+min       3.500000
+25%       4.500000
+50%       6.000000
+75%       6.000000
+max      16.000000
+Name: h_m, dtype: float64
+
+count    19.000000
+mean     26.747895
+std      17.554924
+min       6.000000
+25%      14.500000
+50%      24.000000
+75%      34.500000
+max      73.210000
+Name: diam_tronc, dtype: float64
+
+count    19.000000
+mean      6.210526
+std       2.912215
+min       2.000000
+25%       5.000000
+50%       6.000000
+75%       7.250000
+max      14.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.447368421052632
+widthMean=26.747894736842103
+crownWidthMean=6.2105263157894735
+
+
+
+Analyzed species : Olea europaea
+Occasions : 13
+Values : 
+count    4.0
+mean     4.0
+std      0.0
+min      4.0
+25%      4.0
+50%      4.0
+75%      4.0
+max      4.0
+Name: h_m, dtype: float64
+
+count     4.0
+mean     22.0
+std       6.0
+min      13.0
+25%      22.0
+50%      25.0
+75%      25.0
+max      25.0
+Name: diam_tronc, dtype: float64
+
+count    4.0
+mean     4.5
+std      1.0
+min      4.0
+25%      4.0
+50%      4.0
+75%      4.5
+max      6.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.0
+widthMean=22.0
+crownWidthMean=4.5
+
+
+
+Analyzed species : Pinus coulteri
+Occasions : 2
+Values : 
+count     1.0
+mean     10.0
+std       NaN
+min      10.0
+25%      10.0
+50%      10.0
+75%      10.0
+max      10.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     55.0
+std       NaN
+min      55.0
+25%      55.0
+50%      55.0
+75%      55.0
+max      55.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     9.0
+std      NaN
+min      9.0
+25%      9.0
+50%      9.0
+75%      9.0
+max      9.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=10.0
+widthMean=55.0
+crownWidthMean=9.0
+
+
+
+Analyzed species : Quercus petraea
+Occasions : 38
+Values : 
+count    37.000000
+mean      8.581081
+std       3.895356
+min       3.000000
+25%       6.000000
+50%       7.000000
+75%      11.000000
+max      17.000000
+Name: h_m, dtype: float64
+
+count    37.000000
+mean     27.757568
+std      12.581943
+min       9.000000
+25%      18.000000
+50%      22.000000
+75%      36.000000
+max      68.000000
+Name: diam_tronc, dtype: float64
+
+count    37.000000
+mean      5.945946
+std       2.247788
+min       3.000000
+25%       4.000000
+50%       6.000000
+75%       7.000000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.58108108108108
+widthMean=27.757567567567566
+crownWidthMean=5.945945945945946
+
+
+
+Analyzed species : Abies alba
+Occasions : 31
+Values : 
+count    27.000000
+mean     12.185185
+std       4.867767
+min       4.000000
+25%       8.000000
+50%      12.000000
+75%      16.000000
+max      21.000000
+Name: h_m, dtype: float64
+
+count    27.000000
+mean     36.740741
+std      13.905153
+min      15.000000
+25%      27.500000
+50%      35.000000
+75%      50.000000
+max      60.000000
+Name: diam_tronc, dtype: float64
+
+count    27.000000
+mean      5.444444
+std       2.965615
+min       1.000000
+25%       3.000000
+50%       6.000000
+75%       7.500000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=12.185185185185185
+widthMean=36.74074074074074
+crownWidthMean=5.444444444444445
+
+
+
+Analyzed species : Cedrus libani
+Occasions : 52
+Values : 
+count    17.000000
+mean     20.588235
+std       4.359742
+min      12.000000
+25%      17.000000
+50%      21.000000
+75%      24.000000
+max      26.000000
+Name: h_m, dtype: float64
+
+count     17.000000
+mean      76.257647
+std       27.278352
+min       29.000000
+25%       60.000000
+50%       70.000000
+75%       97.000000
+max      120.000000
+Name: diam_tronc, dtype: float64
+
+count    17.000000
+mean     10.941176
+std       3.880570
+min       4.000000
+25%      10.000000
+50%      10.000000
+75%      12.000000
+max      18.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=20.58823529411765
+widthMean=76.25764705882354
+crownWidthMean=10.941176470588236
+
+
+
+Analyzed species : Chamaecyparis lawsoniana
+Occasions : 18
+Values : 
+count     6.000000
+mean     12.500000
+std       6.123724
+min       5.000000
+25%       7.500000
+50%      15.000000
+75%      15.000000
+max      20.000000
+Name: h_m, dtype: float64
+
+count     6.000000
+mean     29.166667
+std       3.763863
+min      25.000000
+25%      26.250000
+50%      30.000000
+75%      30.000000
+max      35.000000
+Name: diam_tronc, dtype: float64
+
+count    6.000000
+mean     3.666667
+std      0.516398
+min      3.000000
+25%      3.250000
+50%      4.000000
+75%      4.000000
+max      4.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=12.5
+widthMean=29.166666666666668
+crownWidthMean=3.6666666666666665
+
+
+
+Analyzed species : Hibiscus syriacus
+Occasions : 2
+Values : 
+count    2.00000
+mean     1.50000
+std      2.12132
+min      0.00000
+25%      0.75000
+50%      1.50000
+75%      2.25000
+max      3.00000
+Name: h_m, dtype: float64
+
+count    2.000000
+mean     4.000000
+std      5.656854
+min      0.000000
+25%      2.000000
+50%      4.000000
+75%      6.000000
+max      8.000000
+Name: diam_tronc, dtype: float64
+
+count    2.00000
+mean     0.75000
+std      1.06066
+min      0.00000
+25%      0.37500
+50%      0.75000
+75%      1.12500
+max      1.50000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=1.5
+widthMean=4.0
+crownWidthMean=0.75
+
+
+
+Analyzed species : Sequoiadendron giganteum
+Occasions : 3
+Values : 
+count     3.000000
+mean     18.666667
+std      11.015141
+min       8.000000
+25%      13.000000
+50%      18.000000
+75%      24.000000
+max      30.000000
+Name: h_m, dtype: float64
+
+count      3.000000
+mean      96.306667
+std       28.243975
+min       80.000000
+25%       80.000000
+50%       80.000000
+75%      104.460000
+max      128.920000
+Name: diam_tronc, dtype: float64
+
+count    3.000000
+mean     7.000000
+std      1.732051
+min      5.000000
+25%      6.500000
+50%      8.000000
+75%      8.000000
+max      8.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=18.666666666666668
+widthMean=96.30666666666666
+crownWidthMean=7.0
+
+
+
+Analyzed species : Pyrus
+Occasions : 200
+Values : 
+count    199.000000
+mean       6.859296
+std        2.687476
+min        2.000000
+25%        5.000000
+50%        6.000000
+75%        9.000000
+max       14.000000
+Name: h_m, dtype: float64
+
+count    199.000000
+mean      17.728643
+std        7.854532
+min        3.000000
+25%       12.000000
+50%       16.000000
+75%       24.000000
+max       40.000000
+Name: diam_tronc, dtype: float64
+
+count    199.00000
+mean       4.31460
+std        2.43052
+min        1.00000
+25%        2.50000
+50%        3.00000
+75%        7.00000
+max       10.00000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.85929648241206
+widthMean=17.728643216080403
+crownWidthMean=4.3146001089786274
+
+
+
+Analyzed species : Lagerstroemia indica
+Occasions : 15
+Values : 
+count    14.000000
+mean      2.750000
+std       0.259437
+min       2.500000
+25%       2.500000
+50%       2.750000
+75%       3.000000
+max       3.000000
+Name: h_m, dtype: float64
+
+count    14.000000
+mean      4.928571
+std       0.267261
+min       4.000000
+25%       5.000000
+50%       5.000000
+75%       5.000000
+max       5.000000
+Name: diam_tronc, dtype: float64
+
+count    14.000000
+mean      0.971429
+std       0.347361
+min       0.500000
+25%       0.850000
+50%       1.000000
+75%       1.000000
+max       2.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=2.75
+widthMean=4.928571428571429
+crownWidthMean=0.9714285714285715
+
+
+
+Analyzed species : Thuja orientalis
+Occasions : 36
+Values : 
+count    3.000000
+mean     6.666667
+std      1.527525
+min      5.000000
+25%      6.000000
+50%      7.000000
+75%      7.500000
+max      8.000000
+Name: h_m, dtype: float64
+
+count     3.000000
+mean     22.126667
+std       2.952987
+min      19.100000
+25%      20.690000
+50%      22.280000
+75%      23.640000
+max      25.000000
+Name: diam_tronc, dtype: float64
+
+count    3.0
+mean     5.0
+std      1.0
+min      4.0
+25%      4.5
+50%      5.0
+75%      5.5
+max      6.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.666666666666667
+widthMean=22.126666666666665
+crownWidthMean=5.0
+
+
+
+Analyzed species : Morus
+Occasions : 172
+Values : 
+count    171.000000
+mean       4.892526
+std        1.358317
+min        2.000000
+25%        4.000000
+50%        5.000000
+75%        5.000000
+max       11.000000
+Name: h_m, dtype: float64
+
+count    171.000000
+mean      19.253294
+std        8.427385
+min        3.000000
+25%       14.000000
+50%       18.590361
+75%       23.000000
+max       55.000000
+Name: diam_tronc, dtype: float64
+
+count    171.000000
+mean       5.915839
+std        3.001020
+min        1.000000
+25%        4.000000
+50%        6.000000
+75%        8.000000
+max       18.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.892526030523463
+widthMean=19.253293877263438
+crownWidthMean=5.915838793771578
+
+
+
+Analyzed species : Pseudotsuga menziesii
+Occasions : 31
+Values : 
+count    29.000000
+mean     16.068966
+std       4.765434
+min       6.000000
+25%      15.000000
+50%      18.000000
+75%      18.000000
+max      25.000000
+Name: h_m, dtype: float64
+
+count    29.000000
+mean     41.604828
+std      16.695126
+min      19.000000
+25%      29.000000
+50%      42.000000
+75%      50.000000
+max      87.540000
+Name: diam_tronc, dtype: float64
+
+count    29.000000
+mean      5.706897
+std       1.633998
+min       3.000000
+25%       5.000000
+50%       6.000000
+75%       6.000000
+max       9.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=16.06896551724138
+widthMean=41.604827586206895
+crownWidthMean=5.706896551724138
+
+
+
+Analyzed species : Crataegus x lavallei
+Occasions : 11
+Values : 
+count    4.0
+mean     4.0
+std      0.0
+min      4.0
+25%      4.0
+50%      4.0
+75%      4.0
+max      4.0
+Name: h_m, dtype: float64
+
+count     4.0
+mean     11.0
+std       2.0
+min      10.0
+25%      10.0
+50%      10.0
+75%      11.0
+max      14.0
+Name: diam_tronc, dtype: float64
+
+count    4.000000
+mean     2.250000
+std      0.866025
+min      1.000000
+25%      2.125000
+50%      2.500000
+75%      2.625000
+max      3.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.0
+widthMean=11.0
+crownWidthMean=2.25
+
+
+
+Analyzed species : Acer buergerianum
+Occasions : 35
+Values : 
+count    35.000000
+mean      4.629714
+std       0.667804
+min       3.000000
+25%       4.000000
+50%       4.540000
+75%       5.000000
+max       6.000000
+Name: h_m, dtype: float64
+
+count    35.000000
+mean     12.600000
+std       4.596674
+min       6.000000
+25%      10.000000
+50%      11.000000
+75%      13.000000
+max      25.000000
+Name: diam_tronc, dtype: float64
+
+count    35.000000
+mean      3.228571
+std       1.525966
+min       1.000000
+25%       2.500000
+50%       3.000000
+75%       3.000000
+max       9.500000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.629714285714286
+widthMean=12.6
+crownWidthMean=3.2285714285714286
+
+
+
+Analyzed species : Paulownia tomentosa
+Occasions : 23
+Values : 
+count    15.000000
+mean      9.733333
+std       3.104528
+min       6.000000
+25%       7.500000
+50%       9.000000
+75%      11.500000
+max      17.000000
+Name: h_m, dtype: float64
+
+count    15.000000
+mean     56.670667
+std      16.354125
+min      30.000000
+25%      44.375000
+50%      60.000000
+75%      66.830000
+max      84.350000
+Name: diam_tronc, dtype: float64
+
+count    15.000000
+mean      8.000000
+std       2.699206
+min       4.000000
+25%       6.000000
+50%       7.000000
+75%      10.000000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=9.733333333333333
+widthMean=56.67066666666666
+crownWidthMean=8.0
+
+
+
+Analyzed species : Prunus mahaleb
+Occasions : 11
+Values : 
+count    1.0
+mean     6.0
+std      NaN
+min      6.0
+25%      6.0
+50%      6.0
+75%      6.0
+max      6.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     19.0
+std       NaN
+min      19.0
+25%      19.0
+50%      19.0
+75%      19.0
+max      19.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     8.0
+std      NaN
+min      8.0
+25%      8.0
+50%      8.0
+75%      8.0
+max      8.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.0
+widthMean=19.0
+crownWidthMean=8.0
+
+
+
+Analyzed species : Diospyros lotus
+Occasions : 7
+Values : 
+count     6.000000
+mean      9.833333
+std       2.483277
+min       7.000000
+25%       8.250000
+50%       9.500000
+75%      10.750000
+max      14.000000
+Name: h_m, dtype: float64
+
+count     6.000000
+mean     34.833333
+std      14.891832
+min      10.000000
+25%      28.250000
+50%      39.000000
+75%      46.000000
+max      48.000000
+Name: diam_tronc, dtype: float64
+
+count    6.000000
+mean     4.833333
+std      0.752773
+min      4.000000
+25%      4.250000
+50%      5.000000
+75%      5.000000
+max      6.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=9.833333333333334
+widthMean=34.833333333333336
+crownWidthMean=4.833333333333333
+
+
+
+Analyzed species : Prunus laurocerasus
+Occasions : 7
+Values : 
+count    3.000000
+mean     6.000000
+std      1.732051
+min      5.000000
+25%      5.000000
+50%      5.000000
+75%      6.500000
+max      8.000000
+Name: h_m, dtype: float64
+
+count     2.000000
+mean     15.000000
+std       4.242641
+min      12.000000
+25%      13.500000
+50%      15.000000
+75%      16.500000
+max      18.000000
+Name: diam_tronc, dtype: float64
+
+count     3.000000
+mean     10.666667
+std       4.932883
+min       5.000000
+25%       9.000000
+50%      13.000000
+75%      13.500000
+max      14.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.0
+widthMean=15.0
+crownWidthMean=10.666666666666666
+
+
+
+Analyzed species : Ligustrum
+Occasions : 74
+Values : 
+count    74.000000
+mean      5.609797
+std       2.614467
+min       1.500000
+25%       3.500000
+50%       5.500000
+75%       7.023438
+max      12.000000
+Name: h_m, dtype: float64
+
+count    74.000000
+mean     21.305189
+std      12.743103
+min       4.000000
+25%      10.000000
+50%      24.000000
+75%      28.000000
+max      57.000000
+Name: diam_tronc, dtype: float64
+
+count    74.000000
+mean      4.116216
+std       2.070511
+min       1.000000
+25%       2.250000
+50%       4.000000
+75%       6.000000
+max      10.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.609797297297297
+widthMean=21.305189189189186
+crownWidthMean=4.116216216216216
+
+
+
+Analyzed species : Magnolia grandiflora
+Occasions : 60
+Values : 
+count    59.000000
+mean      4.727119
+std       1.389720
+min       3.000000
+25%       4.000000
+50%       4.500000
+75%       5.500000
+max      10.000000
+Name: h_m, dtype: float64
+
+count    59.000000
+mean     15.390678
+std       6.529901
+min       6.000000
+25%      10.000000
+50%      16.000000
+75%      20.000000
+max      39.000000
+Name: diam_tronc, dtype: float64
+
+count    59.000000
+mean      2.669492
+std       1.382184
+min       1.000000
+25%       2.000000
+50%       2.000000
+75%       4.000000
+max       8.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.727118644067796
+widthMean=15.390677966101695
+crownWidthMean=2.669491525423729
+
+
+
+Analyzed species : Ilex aquifolium
+Occasions : 19
+Values : 
+count    19.000000
+mean      3.210526
+std       2.213066
+min       1.500000
+25%       2.000000
+50%       2.500000
+75%       3.500000
+max      11.000000
+Name: h_m, dtype: float64
+
+count    19.000000
+mean     10.651053
+std       6.970826
+min       6.000000
+25%       7.000000
+50%       7.000000
+75%      11.000000
+max      27.370000
+Name: diam_tronc, dtype: float64
+
+count    19.000000
+mean      1.736842
+std       1.437285
+min       1.000000
+25%       1.000000
+50%       1.000000
+75%       1.750000
+max       6.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=3.210526315789474
+widthMean=10.651052631578947
+crownWidthMean=1.736842105263158
+
+
+
+Analyzed species : Platanus
+Occasions : 791
+Values : 
+count    791.000000
+mean      12.370113
+std        7.290709
+min        2.000000
+25%        6.000000
+50%       10.000000
+75%       20.000000
+max       38.000000
+Name: h_m, dtype: float64
+
+count    791.000000
+mean      50.340483
+std       46.201538
+min        6.000000
+25%       16.000000
+50%       28.000000
+75%       80.000000
+max      230.000000
+Name: diam_tronc, dtype: float64
+
+count    791.000000
+mean       9.175048
+std        5.677436
+min        1.000000
+25%        5.000000
+50%        8.000000
+75%       13.000000
+max       26.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=12.37011329378586
+widthMean=50.340482592628604
+crownWidthMean=9.17504827372823
+
+
+
+Analyzed species : Acer palmatum
+Occasions : 41
+Values : 
+count    37.000000
+mean      8.662162
+std       3.519892
+min       1.500000
+25%       7.000000
+50%      10.000000
+75%      11.000000
+max      14.000000
+Name: h_m, dtype: float64
+
+count    32.000000
+mean     29.500000
+std      12.223721
+min       6.000000
+25%      21.000000
+50%      27.000000
+75%      38.000000
+max      58.000000
+Name: diam_tronc, dtype: float64
+
+count    32.000000
+mean      4.968750
+std       2.177367
+min       2.000000
+25%       4.000000
+50%       4.000000
+75%       6.000000
+max      11.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.662162162162161
+widthMean=29.5
+crownWidthMean=4.96875
+
+
+
+Analyzed species : Tilia x vulgaris
+Occasions : 19
+Values : 
+count    17.000000
+mean      4.705882
+std       0.919559
+min       2.000000
+25%       5.000000
+50%       5.000000
+75%       5.000000
+max       6.000000
+Name: h_m, dtype: float64
+
+count    17.000000
+mean     15.941176
+std       4.007346
+min       6.000000
+25%      14.000000
+50%      18.000000
+75%      18.000000
+max      20.000000
+Name: diam_tronc, dtype: float64
+
+count    17.000000
+mean      2.764706
+std       0.562296
+min       1.000000
+25%       3.000000
+50%       3.000000
+75%       3.000000
+max       3.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.705882352941177
+widthMean=15.941176470588236
+crownWidthMean=2.764705882352941
+
+
+
+Analyzed species : Ailanthus altissima
+Occasions : 11
+Values : 
+count     3.000000
+mean     13.666667
+std       4.163332
+min       9.000000
+25%      12.000000
+50%      15.000000
+75%      16.000000
+max      17.000000
+Name: h_m, dtype: float64
+
+count      3.000000
+mean      69.886667
+std       26.586435
+min       49.660000
+25%       54.830000
+50%       60.000000
+75%       80.000000
+max      100.000000
+Name: diam_tronc, dtype: float64
+
+count     3.000000
+mean      7.666667
+std       3.785939
+min       5.000000
+25%       5.500000
+50%       6.000000
+75%       9.000000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=13.666666666666666
+widthMean=69.88666666666667
+crownWidthMean=7.666666666666667
+
+
+
+Analyzed species : Cornus mas
+Occasions : 2
+Values : 
+count    1.0
+mean     4.0
+std      NaN
+min      4.0
+25%      4.0
+50%      4.0
+75%      4.0
+max      4.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     14.0
+std       NaN
+min      14.0
+25%      14.0
+50%      14.0
+75%      14.0
+max      14.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     3.0
+std      NaN
+min      3.0
+25%      3.0
+50%      3.0
+75%      3.0
+max      3.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.0
+widthMean=14.0
+crownWidthMean=3.0
+
+
+
+Analyzed species : Eriobotrya japonica
+Occasions : 3
+Values : 
+count    2.000000
+mean     5.000000
+std      1.414214
+min      4.000000
+25%      4.500000
+50%      5.000000
+75%      5.500000
+max      6.000000
+Name: h_m, dtype: float64
+
+count     2.000000
+mean     26.000000
+std       2.828427
+min      24.000000
+25%      25.000000
+50%      26.000000
+75%      27.000000
+max      28.000000
+Name: diam_tronc, dtype: float64
+
+count    2.00000
+mean     2.50000
+std      2.12132
+min      1.00000
+25%      1.75000
+50%      2.50000
+75%      3.25000
+max      4.00000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.0
+widthMean=26.0
+crownWidthMean=2.5
+
+
+
+Analyzed species : Gleditsia triacanthos
+Occasions : 60
+Values : 
+count    60.000000
+mean      6.475000
+std       2.694038
+min       3.500000
+25%       4.500000
+50%       5.000000
+75%       8.000000
+max      13.000000
+Name: h_m, dtype: float64
+
+count    60.000000
+mean     26.316667
+std      15.279866
+min       8.000000
+25%      13.750000
+50%      20.000000
+75%      40.000000
+max      60.000000
+Name: diam_tronc, dtype: float64
+
+count    60.000000
+mean      5.950000
+std       2.523953
+min       2.500000
+25%       4.000000
+50%       5.500000
+75%       8.000000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.475
+widthMean=26.316666666666666
+crownWidthMean=5.95
+
+
+
+Analyzed species : Laburnum anagyroides
+Occasions : 1
+Values : 
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.95
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Larix decidua
+Occasions : 9
+Values : 
+count     9.000000
+mean      7.888889
+std       2.522124
+min       4.000000
+25%       7.000000
+50%       8.000000
+75%      10.000000
+max      11.000000
+Name: h_m, dtype: float64
+
+count     9.000000
+mean     22.555556
+std       5.637178
+min      15.000000
+25%      18.000000
+50%      25.000000
+75%      27.000000
+max      30.000000
+Name: diam_tronc, dtype: float64
+
+count    9.000000
+mean     4.666667
+std      1.936492
+min      2.000000
+25%      4.000000
+50%      5.000000
+75%      6.000000
+max      8.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.888888888888889
+widthMean=22.555555555555557
+crownWidthMean=4.666666666666667
+
+
+
+Analyzed species : Laurus nobilis
+Occasions : 6
+Values : 
+count    4.0
+mean     5.0
+std      2.0
+min      2.0
+25%      5.0
+50%      6.0
+75%      6.0
+max      6.0
+Name: h_m, dtype: float64
+
+count     3.000000
+mean     26.666667
+std      10.408330
+min      15.000000
+25%      22.500000
+50%      30.000000
+75%      32.500000
+max      35.000000
+Name: diam_tronc, dtype: float64
+
+count    3.000000
+mean     5.666667
+std      2.886751
+min      4.000000
+25%      4.000000
+50%      4.000000
+75%      6.500000
+max      9.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.0
+widthMean=26.666666666666668
+crownWidthMean=5.666666666666667
+
+
+
+Analyzed species : Magnolia
+Occasions : 80
+Values : 
+count    76.000000
+mean      4.666146
+std       1.449200
+min       0.000000
+25%       3.375000
+50%       4.500000
+75%       5.500000
+max      10.000000
+Name: h_m, dtype: float64
+
+count    76.000000
+mean     14.466983
+std       6.620942
+min       0.000000
+25%      10.000000
+50%      15.000000
+75%      20.000000
+max      39.000000
+Name: diam_tronc, dtype: float64
+
+count    76.000000
+mean      3.127230
+std       2.381537
+min       0.000000
+25%       2.000000
+50%       2.000000
+75%       4.000000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.666146297948261
+widthMean=14.46698260481713
+crownWidthMean=3.1272301516503123
+
+
+
+Analyzed species : Picea pungens
+Occasions : 11
+Values : 
+count    11.000000
+mean      8.363636
+std       3.956583
+min       6.000000
+25%       6.000000
+50%       6.000000
+75%       9.500000
+max      16.000000
+Name: h_m, dtype: float64
+
+count    11.000000
+mean     32.117273
+std      13.058992
+min       8.000000
+25%      27.500000
+50%      29.000000
+75%      34.000000
+max      58.000000
+Name: diam_tronc, dtype: float64
+
+count    11.000000
+mean      4.272727
+std       0.786245
+min       3.000000
+25%       4.000000
+50%       4.000000
+75%       4.500000
+max       6.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.363636363636363
+widthMean=32.11727272727273
+crownWidthMean=4.2727272727272725
+
+
+
+Analyzed species : Picea
+Occasions : 156
+Values : 
+count    155.000000
+mean      11.404399
+std        4.792059
+min        2.500000
+25%        7.000000
+50%       11.909091
+75%       14.500000
+max       25.000000
+Name: h_m, dtype: float64
+
+count    154.000000
+mean      34.302503
+std       13.468501
+min        5.000000
+25%       26.250000
+50%       34.947273
+75%       43.000000
+max       80.000000
+Name: diam_tronc, dtype: float64
+
+count    154.000000
+mean       5.167651
+std        2.150185
+min        1.000000
+25%        4.000000
+50%        5.290909
+75%        6.000000
+max       15.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=11.40439882697947
+widthMean=34.302502951593866
+crownWidthMean=5.1676505312868946
+
+
+
+Analyzed species : Picea obovata
+Occasions : 4
+Values : 
+count    4.000000
+mean     6.000000
+std      0.816497
+min      5.000000
+25%      5.750000
+50%      6.000000
+75%      6.250000
+max      7.000000
+Name: h_m, dtype: float64
+
+count     4.00000
+mean     21.00000
+std       6.97615
+min      15.00000
+25%      15.00000
+50%      20.50000
+75%      26.50000
+max      28.00000
+Name: diam_tronc, dtype: float64
+
+count    4.00
+mean     3.75
+std      0.50
+min      3.00
+25%      3.75
+50%      4.00
+75%      4.00
+max      4.00
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.0
+widthMean=21.0
+crownWidthMean=3.75
+
+
+
+Analyzed species : Pinus bungeana
+Occasions : 1
+Values : 
+count     1.0
+mean     19.0
+std       NaN
+min      19.0
+25%      19.0
+50%      19.0
+75%      19.0
+max      19.0
+Name: h_m, dtype: float64
+
+count     1.00
+mean     41.38
+std        NaN
+min      41.38
+25%      41.38
+50%      41.38
+75%      41.38
+max      41.38
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     5.0
+std      NaN
+min      5.0
+25%      5.0
+50%      5.0
+75%      5.0
+max      5.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=19.0
+widthMean=41.38
+crownWidthMean=5.0
+
+
+
+Analyzed species : Platanus orientalis
+Occasions : 22
+Values : 
+count    22.000000
+mean     14.818182
+std       3.361354
+min       9.000000
+25%      13.250000
+50%      15.000000
+75%      15.750000
+max      22.000000
+Name: h_m, dtype: float64
+
+count    22.000000
+mean     72.419091
+std      12.192473
+min      50.000000
+25%      62.000000
+50%      75.000000
+75%      80.000000
+max      98.000000
+Name: diam_tronc, dtype: float64
+
+count    22.000000
+mean     12.863636
+std       1.909761
+min       8.000000
+25%      12.000000
+50%      12.000000
+75%      14.000000
+max      17.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=14.818181818181818
+widthMean=72.41909090909091
+crownWidthMean=12.863636363636363
+
+
+
+Analyzed species : Populus
+Occasions : 140
+Values : 
+count    139.000000
+mean      18.106880
+std        5.744315
+min        8.000000
+25%       15.904762
+50%       18.000000
+75%       20.000000
+max       60.000000
+Name: h_m, dtype: float64
+
+count    139.000000
+mean      70.528318
+std       38.218382
+min       18.000000
+25%       43.000000
+50%       69.730935
+75%       90.000000
+max      220.000000
+Name: diam_tronc, dtype: float64
+
+count    139.000000
+mean       7.176200
+std        4.297924
+min        1.000000
+25%        4.000000
+50%        6.000000
+75%        9.904762
+max       22.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=18.10687951641357
+widthMean=70.52831753288957
+crownWidthMean=7.17619976115236
+
+
+
+Analyzed species : Pterocarya fraxinifolia
+Occasions : 13
+Values : 
+count    13.000000
+mean      6.653846
+std       4.033116
+min       3.500000
+25%       4.000000
+50%       6.000000
+75%       6.000000
+max      16.000000
+Name: h_m, dtype: float64
+
+count    13.000000
+mean     31.400769
+std      19.537562
+min       6.000000
+25%      24.000000
+50%      30.000000
+75%      45.000000
+max      73.210000
+Name: diam_tronc, dtype: float64
+
+count    13.000000
+mean      6.153846
+std       3.508232
+min       2.000000
+25%       4.000000
+50%       5.000000
+75%       9.000000
+max      14.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.653846153846154
+widthMean=31.400769230769228
+crownWidthMean=6.153846153846154
+
+
+
+Analyzed species : Quercus pubescens
+Occasions : 67
+Values : 
+count     2.000000
+mean     12.500000
+std      12.020815
+min       4.000000
+25%       8.250000
+50%      12.500000
+75%      16.750000
+max      21.000000
+Name: h_m, dtype: float64
+
+count    2.0
+mean     8.0
+std      0.0
+min      8.0
+25%      8.0
+50%      8.0
+75%      8.0
+max      8.0
+Name: diam_tronc, dtype: float64
+
+count     2.000000
+mean      6.500000
+std       7.778175
+min       1.000000
+25%       3.750000
+50%       6.500000
+75%       9.250000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=12.5
+widthMean=8.0
+crownWidthMean=6.5
+
+
+
+Analyzed species : Rhus hirta
+Occasions : 1
+Values : 
+count    1.0
+mean     2.0
+std      NaN
+min      2.0
+25%      2.0
+50%      2.0
+75%      2.0
+max      2.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     12.0
+std       NaN
+min      12.0
+25%      12.0
+50%      12.0
+75%      12.0
+max      12.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     5.0
+std      NaN
+min      5.0
+25%      5.0
+50%      5.0
+75%      5.0
+max      5.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=2.0
+widthMean=12.0
+crownWidthMean=5.0
+
+
+
+Analyzed species : Salix x chrysocoma
+Occasions : 2
+Values : 
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.95
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Sorbus thuringiaca
+Occasions : 8
+Values : 
+count    8.000000
+mean     4.250000
+std      1.164965
+min      3.000000
+25%      3.000000
+50%      4.500000
+75%      5.000000
+max      6.000000
+Name: h_m, dtype: float64
+
+count      8.000000
+mean      43.250000
+std       49.637975
+min        8.000000
+25%       13.500000
+50%       20.000000
+75%       51.750000
+max      123.000000
+Name: diam_tronc, dtype: float64
+
+count    8.000000
+mean     3.812500
+std      2.034304
+min      1.000000
+25%      2.625000
+50%      3.500000
+75%      6.000000
+max      6.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.25
+widthMean=43.25
+crownWidthMean=3.8125
+
+
+
+Analyzed species : Taxus baccata
+Occasions : 47
+Values : 
+count    39.00000
+mean      8.25641
+std       4.68743
+min       2.00000
+25%       5.00000
+50%       6.00000
+75%      11.00000
+max      18.00000
+Name: h_m, dtype: float64
+
+count     35.000000
+mean      39.326286
+std       22.704943
+min        4.000000
+25%       23.050000
+50%       35.000000
+75%       52.000000
+max      120.000000
+Name: diam_tronc, dtype: float64
+
+count    35.000000
+mean      6.000000
+std       2.600905
+min       1.000000
+25%       5.000000
+50%       6.000000
+75%       8.500000
+max      10.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.256410256410257
+widthMean=39.32628571428571
+crownWidthMean=6.0
+
+
+
+Analyzed species : Thuja
+Occasions : 49
+Values : 
+count    44.000000
+mean      6.454545
+std       1.272022
+min       4.000000
+25%       6.666667
+50%       6.666667
+75%       6.666667
+max      12.000000
+Name: h_m, dtype: float64
+
+count    44.000000
+mean     21.717273
+std       4.033294
+min      12.000000
+25%      22.126667
+50%      22.126667
+75%      22.126667
+max      40.000000
+Name: diam_tronc, dtype: float64
+
+count    44.000000
+mean      4.568182
+std       1.043200
+min       2.000000
+25%       5.000000
+50%       5.000000
+75%       5.000000
+max       6.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.454545454545454
+widthMean=21.717272727272725
+crownWidthMean=4.568181818181818
+
+
+
+Analyzed species : Tilia x euchlora
+Occasions : 15
+Values : 
+count    14.000000
+mean      6.714286
+std       1.938619
+min       4.000000
+25%       5.000000
+50%       6.500000
+75%       8.000000
+max      10.000000
+Name: h_m, dtype: float64
+
+count    14.000000
+mean     18.285714
+std       6.899594
+min       9.000000
+25%      12.250000
+50%      17.500000
+75%      23.250000
+max      31.000000
+Name: diam_tronc, dtype: float64
+
+count    14.000000
+mean      5.642857
+std       1.680528
+min       3.000000
+25%       4.000000
+50%       5.500000
+75%       7.000000
+max       8.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.714285714285714
+widthMean=18.285714285714285
+crownWidthMean=5.642857142857143
+
+
+
+Analyzed species : Ulmus laevis
+Occasions : 3
+Values : 
+count     2.000000
+mean     11.000000
+std       7.071068
+min       6.000000
+25%       8.500000
+50%      11.000000
+75%      13.500000
+max      16.000000
+Name: h_m, dtype: float64
+
+count     2.000000
+mean     39.500000
+std      14.849242
+min      29.000000
+25%      34.250000
+50%      39.500000
+75%      44.750000
+max      50.000000
+Name: diam_tronc, dtype: float64
+
+count    2.000000
+mean     6.000000
+std      1.414214
+min      5.000000
+25%      5.500000
+50%      6.000000
+75%      6.500000
+max      7.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=11.0
+widthMean=39.5
+crownWidthMean=6.0
+
+
+
+Analyzed species : Davidia involucrata
+Occasions : 10
+Values : 
+count    10.000000
+mean      5.600000
+std       1.505545
+min       4.000000
+25%       4.000000
+50%       6.000000
+75%       6.750000
+max       8.000000
+Name: h_m, dtype: float64
+
+count    10.000000
+mean     25.737000
+std      14.437625
+min      12.000000
+25%      18.000000
+50%      19.685000
+75%      28.000000
+max      54.000000
+Name: diam_tronc, dtype: float64
+
+count    10.000000
+mean      4.400000
+std       2.065591
+min       2.000000
+25%       2.000000
+50%       6.000000
+75%       6.000000
+max       6.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.6
+widthMean=25.737000000000002
+crownWidthMean=4.4
+
+
+
+Analyzed species : Clerodendrum trichotomum
+Occasions : 25
+Values : 
+count    25.000000
+mean      3.520000
+std       0.509902
+min       3.000000
+25%       3.000000
+50%       3.500000
+75%       4.000000
+max       4.500000
+Name: h_m, dtype: float64
+
+count    25.000000
+mean      8.731200
+std       2.495745
+min       6.000000
+25%       7.000000
+50%       7.000000
+75%      10.820000
+max      13.690000
+Name: diam_tronc, dtype: float64
+
+count    15.000000
+mean      2.866667
+std       1.025856
+min       1.500000
+25%       1.750000
+50%       3.000000
+75%       4.000000
+max       4.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=3.52
+widthMean=8.7312
+crownWidthMean=2.8666666666666667
+
+
+
+Analyzed species : Ligustrum japonicum
+Occasions : 23
+Values : 
+count    23.000000
+mean      3.173913
+std       0.792130
+min       2.000000
+25%       2.750000
+50%       3.000000
+75%       4.000000
+max       4.000000
+Name: h_m, dtype: float64
+
+count    23.000000
+mean      9.585217
+std       2.546511
+min       6.000000
+25%       7.500000
+50%      10.000000
+75%      10.665000
+max      15.600000
+Name: diam_tronc, dtype: float64
+
+count    23.000000
+mean      2.347826
+std       0.970412
+min       1.000000
+25%       1.500000
+50%       2.000000
+75%       3.250000
+max       4.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=3.1739130434782608
+widthMean=9.585217391304349
+crownWidthMean=2.347826086956522
+
+
+
+Analyzed species : Prunus padus
+Occasions : 6
+Values : 
+count    6.000000
+mean     7.500000
+std      1.378405
+min      5.000000
+25%      7.250000
+50%      8.000000
+75%      8.000000
+max      9.000000
+Name: h_m, dtype: float64
+
+count     6.000000
+mean     20.743333
+std       2.243566
+min      17.510000
+25%      19.577500
+50%      20.690000
+75%      22.042500
+max      23.870000
+Name: diam_tronc, dtype: float64
+
+count    6.000000
+mean     6.333333
+std      0.816497
+min      5.000000
+25%      6.000000
+50%      6.500000
+75%      7.000000
+max      7.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.5
+widthMean=20.743333333333336
+crownWidthMean=6.333333333333333
+
+
+
+Analyzed species : Photinia x fraseri
+Occasions : 10
+Values : 
+count    10.000000
+mean      3.900000
+std       0.210819
+min       3.500000
+25%       4.000000
+50%       4.000000
+75%       4.000000
+max       4.000000
+Name: h_m, dtype: float64
+
+count    10.000000
+mean     11.150000
+std       2.472628
+min       7.500000
+25%       9.250000
+50%      10.500000
+75%      13.000000
+max      15.000000
+Name: diam_tronc, dtype: float64
+
+count    10.000000
+mean      3.800000
+std       0.349603
+min       3.000000
+25%       3.625000
+50%       4.000000
+75%       4.000000
+max       4.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=3.9
+widthMean=11.15
+crownWidthMean=3.8
+
+
+
+Analyzed species : Photinia serrulata
+Occasions : 5
+Values : 
+count    5.00000
+mean     2.30000
+std      0.67082
+min      2.00000
+25%      2.00000
+50%      2.00000
+75%      2.00000
+max      3.50000
+Name: h_m, dtype: float64
+
+count    5.000000
+mean     7.400000
+std      1.341641
+min      5.000000
+25%      8.000000
+50%      8.000000
+75%      8.000000
+max      8.000000
+Name: diam_tronc, dtype: float64
+
+count    5.000000
+mean     1.800000
+std      0.447214
+min      1.000000
+25%      2.000000
+50%      2.000000
+75%      2.000000
+max      2.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=2.3
+widthMean=7.4
+crownWidthMean=1.8
+
+
+
+Analyzed species : Prunus lusitanica
+Occasions : 1
+Values : 
+count    1.0
+mean     4.0
+std      NaN
+min      4.0
+25%      4.0
+50%      4.0
+75%      4.0
+max      4.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     15.0
+std       NaN
+min      15.0
+25%      15.0
+50%      15.0
+75%      15.0
+max      15.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     2.0
+std      NaN
+min      2.0
+25%      2.0
+50%      2.0
+75%      2.0
+max      2.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.0
+widthMean=15.0
+crownWidthMean=2.0
+
+
+
+Analyzed species : Quercus cerris
+Occasions : 5
+Values : 
+count    5.00000
+mean     4.10000
+std      0.65192
+min      3.00000
+25%      4.00000
+50%      4.50000
+75%      4.50000
+max      4.50000
+Name: h_m, dtype: float64
+
+count    5.0
+mean     5.0
+std      0.0
+min      5.0
+25%      5.0
+50%      5.0
+75%      5.0
+max      5.0
+Name: diam_tronc, dtype: float64
+
+count    5.000000
+mean     1.200000
+std      0.273861
+min      1.000000
+25%      1.000000
+50%      1.000000
+75%      1.500000
+max      1.500000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.1
+widthMean=5.0
+crownWidthMean=1.2
+
+
+
+Analyzed species : Populus tremula
+Occasions : 2
+Values : 
+count     2.0
+mean     12.0
+std       0.0
+min      12.0
+25%      12.0
+50%      12.0
+75%      12.0
+max      12.0
+Name: h_m, dtype: float64
+
+count      2.000000
+mean      95.000000
+std        7.071068
+min       90.000000
+25%       92.500000
+50%       95.000000
+75%       97.500000
+max      100.000000
+Name: diam_tronc, dtype: float64
+
+count     2.000000
+mean     10.500000
+std       0.707107
+min      10.000000
+25%      10.250000
+50%      10.500000
+75%      10.750000
+max      11.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=12.0
+widthMean=95.0
+crownWidthMean=10.5
+
+
+
+Analyzed species : Zelkova carpinifolia
+Occasions : 5
+Values : 
+count    5.000000
+mean     3.900000
+std      0.223607
+min      3.500000
+25%      4.000000
+50%      4.000000
+75%      4.000000
+max      4.000000
+Name: h_m, dtype: float64
+
+count    5.000000
+mean     7.400000
+std      0.894427
+min      7.000000
+25%      7.000000
+50%      7.000000
+75%      7.000000
+max      9.000000
+Name: diam_tronc, dtype: float64
+
+count    5.0
+mean     1.0
+std      0.0
+min      1.0
+25%      1.0
+50%      1.0
+75%      1.0
+max      1.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=3.9
+widthMean=7.4
+crownWidthMean=1.0
+
+
+
+Analyzed species : Acer x freemanii
+Occasions : 26
+Values : 
+count    26.000000
+mean      3.769231
+std       0.429669
+min       3.000000
+25%       4.000000
+50%       4.000000
+75%       4.000000
+max       4.000000
+Name: h_m, dtype: float64
+
+count    26.000000
+mean      9.653846
+std       1.831771
+min       5.000000
+25%      10.000000
+50%      10.000000
+75%      10.000000
+max      12.000000
+Name: diam_tronc, dtype: float64
+
+count    26.000000
+mean      2.153846
+std       0.644503
+min       1.000000
+25%       2.500000
+50%       2.500000
+75%       2.500000
+max       2.500000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=3.769230769230769
+widthMean=9.653846153846153
+crownWidthMean=2.1538461538461537
+
+
+
+Analyzed species : Eucalyptus cordata
+Occasions : 1
+Values : 
+count    1.0
+mean     4.5
+std      NaN
+min      4.5
+25%      4.5
+50%      4.5
+75%      4.5
+max      4.5
+Name: h_m, dtype: float64
+
+count    1.0
+mean     8.0
+std      NaN
+min      8.0
+25%      8.0
+50%      8.0
+75%      8.0
+max      8.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     2.0
+std      NaN
+min      2.0
+25%      2.0
+50%      2.0
+75%      2.0
+max      2.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.5
+widthMean=8.0
+crownWidthMean=2.0
+
+
+
+Analyzed species : Picea glauca
+Occasions : 5
+Values : 
+count     5.000000
+mean      8.200000
+std       4.438468
+min       3.000000
+25%       5.000000
+50%       8.000000
+75%      11.000000
+max      14.000000
+Name: h_m, dtype: float64
+
+count     5.000000
+mean     32.000000
+std      10.124228
+min      21.000000
+25%      24.000000
+50%      30.000000
+75%      42.000000
+max      43.000000
+Name: diam_tronc, dtype: float64
+
+count    5.000000
+mean     4.800000
+std      2.588436
+min      2.000000
+25%      3.000000
+50%      4.000000
+75%      7.000000
+max      8.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.2
+widthMean=32.0
+crownWidthMean=4.8
+
+
+
+Analyzed species : Betula nigra
+Occasions : 20
+Values : 
+count    20.000000
+mean      9.650000
+std       3.631369
+min       4.000000
+25%       7.000000
+50%       9.000000
+75%      12.000000
+max      15.000000
+Name: h_m, dtype: float64
+
+count    20.000000
+mean     27.250000
+std       7.468354
+min      14.000000
+25%      22.000000
+50%      28.000000
+75%      32.250000
+max      42.000000
+Name: diam_tronc, dtype: float64
+
+count    20.000000
+mean      4.250000
+std       2.048748
+min       1.000000
+25%       3.000000
+50%       4.000000
+75%       5.000000
+max      11.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=9.65
+widthMean=27.25
+crownWidthMean=4.25
+
+
+
+Analyzed species : Betula
+Occasions : 254
+Values : 
+count    254.000000
+mean       6.994156
+std        3.492032
+min        2.500000
+25%        4.000000
+50%        6.000000
+75%        8.193359
+max       17.000000
+Name: h_m, dtype: float64
+
+count    252.000000
+mean      18.649677
+std       11.560447
+min        1.270000
+25%        6.000000
+50%       18.000000
+75%       28.000000
+max       50.000000
+Name: diam_tronc, dtype: float64
+
+count    254.000000
+mean       4.032880
+std        2.292916
+min        1.000000
+25%        2.500000
+50%        3.000000
+75%        5.000000
+max       12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.994156003937008
+widthMean=18.649676959325397
+crownWidthMean=4.032880167322834
+
+
+
+Analyzed species : Picea sitchensis
+Occasions : 1
+Values : 
+count    1.0
+mean     5.0
+std      NaN
+min      5.0
+25%      5.0
+50%      5.0
+75%      5.0
+max      5.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     25.0
+std       NaN
+min      25.0
+25%      25.0
+50%      25.0
+75%      25.0
+max      25.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     3.0
+std      NaN
+min      3.0
+25%      3.0
+50%      3.0
+75%      3.0
+max      3.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.0
+widthMean=25.0
+crownWidthMean=3.0
+
+
+
+Analyzed species : Malus floribunda
+Occasions : 19
+Values : 
+count    19.000000
+mean      4.263158
+std       0.991189
+min       3.000000
+25%       4.000000
+50%       4.000000
+75%       4.000000
+max       6.000000
+Name: h_m, dtype: float64
+
+count    19.000000
+mean     18.578947
+std       4.272857
+min       7.000000
+25%      18.000000
+50%      18.000000
+75%      18.000000
+max      25.000000
+Name: diam_tronc, dtype: float64
+
+count    19.000000
+mean      3.000000
+std       0.745356
+min       1.000000
+25%       3.000000
+50%       3.000000
+75%       3.000000
+max       4.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.2631578947368425
+widthMean=18.57894736842105
+crownWidthMean=3.0
+
+
+
+Analyzed species : Sorbus torminalis
+Occasions : 7
+Values : 
+count    7.000000
+mean     4.285714
+std      0.951190
+min      3.000000
+25%      4.000000
+50%      4.000000
+75%      4.500000
+max      6.000000
+Name: h_m, dtype: float64
+
+count     7.000000
+mean     16.428571
+std      15.251854
+min       8.000000
+25%       8.000000
+50%       8.000000
+75%      17.500000
+max      48.000000
+Name: diam_tronc, dtype: float64
+
+count     7.000000
+mean      2.857143
+std       4.099942
+min       1.000000
+25%       1.000000
+50%       1.000000
+75%       2.000000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.285714285714286
+widthMean=16.428571428571427
+crownWidthMean=2.857142857142857
+
+
+
+Analyzed species : Prunus amygdalus
+Occasions : 1
+Values : 
+count    1.0
+mean     3.0
+std      NaN
+min      3.0
+25%      3.0
+50%      3.0
+75%      3.0
+max      3.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     10.0
+std       NaN
+min      10.0
+25%      10.0
+50%      10.0
+75%      10.0
+max      10.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     1.0
+std      NaN
+min      1.0
+25%      1.0
+50%      1.0
+75%      1.0
+max      1.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=3.0
+widthMean=10.0
+crownWidthMean=1.0
+
+
+
+Analyzed species : Arbutus unedo
+Occasions : 2
+Values : 
+count    1.0
+mean     3.0
+std      NaN
+min      3.0
+25%      3.0
+50%      3.0
+75%      3.0
+max      3.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     10.0
+std       NaN
+min      10.0
+25%      10.0
+50%      10.0
+75%      10.0
+max      10.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     1.0
+std      NaN
+min      1.0
+25%      1.0
+50%      1.0
+75%      1.0
+max      1.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=3.0
+widthMean=10.0
+crownWidthMean=1.0
+
+
+
+Analyzed species : Cupressus arizonica
+Occasions : 6
+Values : 
+count     6.000000
+mean      9.833333
+std       3.311596
+min       4.000000
+25%       9.250000
+50%      10.000000
+75%      12.250000
+max      13.000000
+Name: h_m, dtype: float64
+
+count     6.000000
+mean     56.833333
+std      14.918668
+min      35.000000
+25%      49.000000
+50%      56.000000
+75%      69.000000
+max      74.000000
+Name: diam_tronc, dtype: float64
+
+count    6.000000
+mean     5.833333
+std      2.228602
+min      2.000000
+25%      6.000000
+50%      6.000000
+75%      6.000000
+max      9.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=9.833333333333334
+widthMean=56.833333333333336
+crownWidthMean=5.833333333333333
+
+
+
+Analyzed species : Abies
+Occasions : 41
+Values : 
+count    41.000000
+mean     11.335140
+std       4.387521
+min       4.000000
+25%       8.000000
+50%      12.000000
+75%      15.000000
+max      21.000000
+Name: h_m, dtype: float64
+
+count    41.000000
+mean     37.389341
+std      12.102741
+min      15.000000
+25%      32.000000
+50%      36.740741
+75%      48.000000
+max      60.000000
+Name: diam_tronc, dtype: float64
+
+count    41.000000
+mean      5.531165
+std       2.496110
+min       1.000000
+25%       4.000000
+50%       6.000000
+75%       6.000000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=11.335140018066848
+widthMean=37.38934056007227
+crownWidthMean=5.531165311653116
+
+
+
+Analyzed species : Ulmus glabra
+Occasions : 26
+Values : 
+count    26.000000
+mean     12.250000
+std       4.650269
+min       6.000000
+25%       9.000000
+50%      11.000000
+75%      15.000000
+max      21.000000
+Name: h_m, dtype: float64
+
+count     26.000000
+mean      63.076923
+std       35.688567
+min       31.000000
+25%       36.750000
+50%       48.000000
+75%       75.500000
+max      180.000000
+Name: diam_tronc, dtype: float64
+
+count    26.000000
+mean      8.019231
+std       3.067510
+min       3.000000
+25%       6.000000
+50%       8.000000
+75%       9.750000
+max      16.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=12.25
+widthMean=63.07692307692308
+crownWidthMean=8.01923076923077
+
+
+
+Analyzed species : Chamaecyparis
+Occasions : 21
+Values : 
+count    20.000000
+mean     11.690000
+std       4.098254
+min       1.800000
+25%      12.500000
+50%      12.500000
+75%      12.500000
+max      20.000000
+Name: h_m, dtype: float64
+
+count    19.000000
+mean     29.315789
+std       2.087510
+min      25.000000
+25%      29.166667
+50%      29.166667
+75%      29.583333
+max      35.000000
+Name: diam_tronc, dtype: float64
+
+count    19.000000
+mean      3.684211
+std       0.282705
+min       3.000000
+25%       3.666667
+50%       3.666667
+75%       3.833333
+max       4.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=11.690000000000001
+widthMean=29.31578947368421
+crownWidthMean=3.6842105263157894
+
+
+
+Analyzed species : Cupressus torulosa
+Occasions : 3
+Values : 
+count     3.000000
+mean      7.666667
+std       3.055050
+min       5.000000
+25%       6.000000
+50%       7.000000
+75%       9.000000
+max      11.000000
+Name: h_m, dtype: float64
+
+count     3.000000
+mean     36.333333
+std      17.243356
+min      21.000000
+25%      27.000000
+50%      33.000000
+75%      44.000000
+max      55.000000
+Name: diam_tronc, dtype: float64
+
+count    3.000000
+mean     4.666667
+std      3.055050
+min      2.000000
+25%      3.000000
+50%      4.000000
+75%      6.000000
+max      8.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.666666666666667
+widthMean=36.333333333333336
+crownWidthMean=4.666666666666667
+
+
+
+Analyzed species : Thuja plicata
+Occasions : 2
+Values : 
+count    2.000000
+mean     6.000000
+std      1.414214
+min      5.000000
+25%      5.500000
+50%      6.000000
+75%      6.500000
+max      7.000000
+Name: h_m, dtype: float64
+
+count     2.0
+mean     24.0
+std       0.0
+min      24.0
+25%      24.0
+50%      24.0
+75%      24.0
+max      24.0
+Name: diam_tronc, dtype: float64
+
+count    2.0
+mean     3.0
+std      0.0
+min      3.0
+25%      3.0
+50%      3.0
+75%      3.0
+max      3.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=6.0
+widthMean=24.0
+crownWidthMean=3.0
+
+
+
+Analyzed species : Cupressus lusitanica
+Occasions : 3
+Values : 
+count     3.000000
+mean     12.666667
+std       2.309401
+min      10.000000
+25%      12.000000
+50%      14.000000
+75%      14.000000
+max      14.000000
+Name: h_m, dtype: float64
+
+count     3.000000
+mean     71.026667
+std      11.574201
+min      60.000000
+25%      65.000000
+50%      70.000000
+75%      76.540000
+max      83.080000
+Name: diam_tronc, dtype: float64
+
+count     3.000000
+mean      5.333333
+std       4.041452
+min       3.000000
+25%       3.000000
+50%       3.000000
+75%       6.500000
+max      10.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=12.666666666666666
+widthMean=71.02666666666666
+crownWidthMean=5.333333333333333
+
+
+
+Analyzed species : Pinus pinaster
+Occasions : 3
+Values : 
+count    3.0
+mean     8.0
+std      0.0
+min      8.0
+25%      8.0
+50%      8.0
+75%      8.0
+max      8.0
+Name: h_m, dtype: float64
+
+count     3.000000
+mean     41.666667
+std       6.027714
+min      36.000000
+25%      38.500000
+50%      41.000000
+75%      44.500000
+max      48.000000
+Name: diam_tronc, dtype: float64
+
+count    3.000000
+mean     4.666667
+std      1.154701
+min      4.000000
+25%      4.000000
+50%      4.000000
+75%      5.000000
+max      6.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.0
+widthMean=41.666666666666664
+crownWidthMean=4.666666666666667
+
+
+
+Analyzed species : Pinus cembra
+Occasions : 1
+Values : 
+count    1.0
+mean     9.0
+std      NaN
+min      9.0
+25%      9.0
+50%      9.0
+75%      9.0
+max      9.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     36.0
+std       NaN
+min      36.0
+25%      36.0
+50%      36.0
+75%      36.0
+max      36.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     7.0
+std      NaN
+min      7.0
+25%      7.0
+50%      7.0
+75%      7.0
+max      7.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=9.0
+widthMean=36.0
+crownWidthMean=7.0
+
+
+
+Analyzed species : Pinus halepensis
+Occasions : 3
+Values : 
+count     3.000000
+mean     15.666667
+std       0.577350
+min      15.000000
+25%      15.500000
+50%      16.000000
+75%      16.000000
+max      16.000000
+Name: h_m, dtype: float64
+
+count     3.0
+mean     45.0
+std       0.0
+min      45.0
+25%      45.0
+50%      45.0
+75%      45.0
+max      45.0
+Name: diam_tronc, dtype: float64
+
+count    3.0
+mean     6.0
+std      0.0
+min      6.0
+25%      6.0
+50%      6.0
+75%      6.0
+max      6.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=15.666666666666666
+widthMean=45.0
+crownWidthMean=6.0
+
+
+
+Analyzed species : Abies pinsapo
+Occasions : 1
+Values : 
+count     1.0
+mean     14.0
+std       NaN
+min      14.0
+25%      14.0
+50%      14.0
+75%      14.0
+max      14.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     49.0
+std       NaN
+min      49.0
+25%      49.0
+50%      49.0
+75%      49.0
+max      49.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     9.0
+std      NaN
+min      9.0
+25%      9.0
+50%      9.0
+75%      9.0
+max      9.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=14.0
+widthMean=49.0
+crownWidthMean=9.0
+
+
+
+Analyzed species : Betula lenta
+Occasions : 1
+Values : 
+count    1.0
+mean     5.0
+std      NaN
+min      5.0
+25%      5.0
+50%      5.0
+75%      5.0
+max      5.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     15.0
+std       NaN
+min      15.0
+25%      15.0
+50%      15.0
+75%      15.0
+max      15.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     3.0
+std      NaN
+min      3.0
+25%      3.0
+50%      3.0
+75%      3.0
+max      3.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=5.0
+widthMean=15.0
+crownWidthMean=3.0
+
+
+
+Analyzed species : Aesculus
+Occasions : 582
+Values : 
+count    582.000000
+mean       8.438883
+std        3.485249
+min        2.000000
+25%        6.000000
+50%        8.412100
+75%       11.000000
+max       24.000000
+Name: h_m, dtype: float64
+
+count    582.000000
+mean      39.637824
+std       21.568858
+min        5.000000
+25%       18.250000
+50%       40.000000
+75%       58.000000
+max      100.000000
+Name: diam_tronc, dtype: float64
+
+count    582.000000
+mean       6.463285
+std        3.254426
+min        1.000000
+25%        4.000000
+50%        6.000000
+75%        8.000000
+max       20.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.43888297807291
+widthMean=39.63782424099674
+crownWidthMean=6.463284690963651
+
+
+
+Analyzed species : Alnus cordata
+Occasions : 1
+Values : 
+count     1.0
+mean     18.0
+std       NaN
+min      18.0
+25%      18.0
+50%      18.0
+75%      18.0
+max      18.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     50.0
+std       NaN
+min      50.0
+25%      50.0
+50%      50.0
+75%      50.0
+max      50.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     8.0
+std      NaN
+min      8.0
+25%      8.0
+50%      8.0
+75%      8.0
+max      8.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=18.0
+widthMean=50.0
+crownWidthMean=8.0
+
+
+
+Analyzed species : Catalpa
+Occasions : 19
+Values : 
+count    19.000000
+mean      8.894737
+std       2.685242
+min       4.000000
+25%       7.000000
+50%       8.000000
+75%      11.000000
+max      13.000000
+Name: h_m, dtype: float64
+
+count    19.000000
+mean     47.529474
+std       9.016295
+min      33.420000
+25%      41.000000
+50%      48.000000
+75%      53.795000
+max      65.000000
+Name: diam_tronc, dtype: float64
+
+count    19.000000
+mean      8.157895
+std       2.522414
+min       4.000000
+25%       6.500000
+50%       8.000000
+75%      10.500000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.894736842105264
+widthMean=47.52947368421053
+crownWidthMean=8.157894736842104
+
+
+
+Analyzed species : Albizia julibrissin
+Occasions : 3
+Values : 
+count     3.000000
+mean      9.666667
+std       4.041452
+min       6.000000
+25%       7.500000
+50%       9.000000
+75%      11.500000
+max      14.000000
+Name: h_m, dtype: float64
+
+count     3.000000
+mean     45.000000
+std      14.106736
+min      32.000000
+25%      37.500000
+50%      43.000000
+75%      51.500000
+max      60.000000
+Name: diam_tronc, dtype: float64
+
+count     3.000000
+mean      9.666667
+std       2.516611
+min       7.000000
+25%       8.500000
+50%      10.000000
+75%      11.000000
+max      12.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=9.666666666666666
+widthMean=45.0
+crownWidthMean=9.666666666666666
+
+
+
+Analyzed species : Tamarix gallica
+Occasions : 1
+Values : 
+count    1.0
+mean     3.0
+std      NaN
+min      3.0
+25%      3.0
+50%      3.0
+75%      3.0
+max      3.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     25.0
+std       NaN
+min      25.0
+25%      25.0
+50%      25.0
+75%      25.0
+max      25.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     3.0
+std      NaN
+min      3.0
+25%      3.0
+50%      3.0
+75%      3.0
+max      3.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=3.0
+widthMean=25.0
+crownWidthMean=3.0
+
+
+
+Analyzed species : Acer tataricum
+Occasions : 1
+Values : 
+count    1.0
+mean     4.0
+std      NaN
+min      4.0
+25%      4.0
+50%      4.0
+75%      4.0
+max      4.0
+Name: h_m, dtype: float64
+
+count    1.0
+mean     5.0
+std      NaN
+min      5.0
+25%      5.0
+50%      5.0
+75%      5.0
+max      5.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     2.0
+std      NaN
+min      2.0
+25%      2.0
+50%      2.0
+75%      2.0
+max      2.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=4.0
+widthMean=5.0
+crownWidthMean=2.0
+
+
+
+Analyzed species : Salix alba
+Occasions : 2
+Values : 
+count     2.000000
+mean     10.500000
+std       3.535534
+min       8.000000
+25%       9.250000
+50%      10.500000
+75%      11.750000
+max      13.000000
+Name: h_m, dtype: float64
+
+count     2.000000
+mean     48.000000
+std       8.485281
+min      42.000000
+25%      45.000000
+50%      48.000000
+75%      51.000000
+max      54.000000
+Name: diam_tronc, dtype: float64
+
+count    2.000000
+mean     7.000000
+std      1.414214
+min      6.000000
+25%      6.500000
+50%      7.000000
+75%      7.500000
+max      8.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=10.5
+widthMean=48.0
+crownWidthMean=7.0
+
+
+
+Analyzed species : Maclura pomifera
+Occasions : 2
+Values : 
+count    2.0
+mean     3.0
+std      0.0
+min      3.0
+25%      3.0
+50%      3.0
+75%      3.0
+max      3.0
+Name: h_m, dtype: float64
+
+count     2.0
+mean     16.0
+std       0.0
+min      16.0
+25%      16.0
+50%      16.0
+75%      16.0
+max      16.0
+Name: diam_tronc, dtype: float64
+
+count    2.0
+mean     2.0
+std      0.0
+min      2.0
+25%      2.0
+50%      2.0
+75%      2.0
+max      2.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=3.0
+widthMean=16.0
+crownWidthMean=2.0
+
+
+
+Analyzed species : Alnus incana
+Occasions : 10
+Values : 
+count    10.000000
+mean      8.300000
+std       1.159502
+min       7.000000
+25%       8.000000
+50%       8.000000
+75%       8.750000
+max      11.000000
+Name: h_m, dtype: float64
+
+count    10.000000
+mean     40.400000
+std      24.532065
+min      21.000000
+25%      21.000000
+50%      29.000000
+75%      55.500000
+max      80.000000
+Name: diam_tronc, dtype: float64
+
+count    10.000000
+mean      5.500000
+std       1.649916
+min       4.000000
+25%       4.000000
+50%       5.000000
+75%       7.000000
+max       8.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=8.3
+widthMean=40.4
+crownWidthMean=5.5
+
+
+
+Analyzed species : Torreya nucifera
+Occasions : 1
+Values : 
+count     1.0
+mean     19.0
+std       NaN
+min      19.0
+25%      19.0
+50%      19.0
+75%      19.0
+max      19.0
+Name: h_m, dtype: float64
+
+count     1.0
+mean     44.0
+std       NaN
+min      44.0
+25%      44.0
+50%      44.0
+75%      44.0
+max      44.0
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     6.0
+std      NaN
+min      6.0
+25%      6.0
+50%      6.0
+75%      6.0
+max      6.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=19.0
+widthMean=44.0
+crownWidthMean=6.0
+
+
+
+Analyzed species : Juniperus drupacea
+Occasions : 4
+Values : 
+count     4.000000
+mean     12.250000
+std       2.872281
+min      10.000000
+25%      10.000000
+50%      11.500000
+75%      13.750000
+max      16.000000
+Name: h_m, dtype: float64
+
+count     4.000000
+mean     46.380000
+std      17.109576
+min      24.000000
+25%      37.500000
+50%      50.760000
+75%      59.640000
+max      60.000000
+Name: diam_tronc, dtype: float64
+
+count    4.000000
+mean     4.000000
+std      1.414214
+min      2.000000
+25%      3.500000
+50%      4.500000
+75%      5.000000
+max      5.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=12.25
+widthMean=46.38
+crownWidthMean=4.0
+
+
+
+Analyzed species : Calocedrus decurrens
+Occasions : 1
+Values : 
+count     1.0
+mean     16.0
+std       NaN
+min      16.0
+25%      16.0
+50%      16.0
+75%      16.0
+max      16.0
+Name: h_m, dtype: float64
+
+count     1.00
+mean     45.84
+std        NaN
+min      45.84
+25%      45.84
+50%      45.84
+75%      45.84
+max      45.84
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     4.0
+std      NaN
+min      4.0
+25%      4.0
+50%      4.0
+75%      4.0
+max      4.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=16.0
+widthMean=45.84
+crownWidthMean=4.0
+
+
+
+Analyzed species : Jasminum
+Occasions : 2
+Values : 
+count    2.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: h_m, dtype: float64
+
+count    2.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: diam_tronc, dtype: float64
+
+count    2.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.95
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Wisteria sinensis
+Occasions : 4
+Values : 
+count    4.00
+mean     0.75
+std      1.50
+min      0.00
+25%      0.00
+50%      0.00
+75%      0.75
+max      3.00
+Name: h_m, dtype: float64
+
+count    3.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: diam_tronc, dtype: float64
+
+count    3.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=0.75
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Corylus avellana
+Occasions : 12
+Values : 
+count    11.000000
+mean      1.909091
+std       2.343269
+min       0.000000
+25%       0.000000
+50%       0.000000
+75%       3.500000
+max       6.000000
+Name: h_m, dtype: float64
+
+count    6.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: diam_tronc, dtype: float64
+
+count    7.000000
+mean     0.428571
+std      1.133893
+min      0.000000
+25%      0.000000
+50%      0.000000
+75%      0.000000
+max      3.000000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=1.9090909090909092
+widthMean=28.23
+crownWidthMean=0.42857142857142855
+
+
+
+Analyzed species : Cornus sanguinea
+Occasions : 2
+Values : 
+count    2.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: h_m, dtype: float64
+
+count    2.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: diam_tronc, dtype: float64
+
+count    2.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.95
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Viburnum sieboldii
+Occasions : 2
+Values : 
+count    2.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: h_m, dtype: float64
+
+count    2.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: diam_tronc, dtype: float64
+
+count    2.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.95
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Berberis thunbergii
+Occasions : 21
+Values : 
+count    21.000000
+mean      0.071429
+std       0.327327
+min       0.000000
+25%       0.000000
+50%       0.000000
+75%       0.000000
+max       1.500000
+Name: h_m, dtype: float64
+
+count    20.0
+mean      0.0
+std       0.0
+min       0.0
+25%       0.0
+50%       0.0
+75%       0.0
+max       0.0
+Name: diam_tronc, dtype: float64
+
+count    20.0
+mean      0.0
+std       0.0
+min       0.0
+25%       0.0
+50%       0.0
+75%       0.0
+max       0.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=0.07142857142857142
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Cornus
+Occasions : 13
+Values : 
+count    13.000000
+mean      2.357692
+std       2.943272
+min       0.000000
+25%       0.000000
+50%       1.250000
+75%       4.000000
+max       7.950000
+Name: h_m, dtype: float64
+
+count    10.000000
+mean      8.446000
+std      11.890784
+min       0.000000
+25%       0.000000
+50%       0.000000
+75%      14.000000
+max      28.230000
+Name: diam_tronc, dtype: float64
+
+count    10.000000
+mean      1.652000
+std       2.261862
+min       0.000000
+25%       0.000000
+50%       0.000000
+75%       3.000000
+max       5.260000
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=2.3576923076923078
+widthMean=8.446000000000002
+crownWidthMean=1.652
+
+
+
+Analyzed species : Corylus maxima
+Occasions : 6
+Values : 
+count    6.000000
+mean     1.416667
+std      1.960017
+min      0.000000
+25%      0.000000
+50%      0.750000
+75%      1.875000
+max      5.000000
+Name: h_m, dtype: float64
+
+count    3.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: diam_tronc, dtype: float64
+
+count    3.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=1.4166666666666667
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Punica granatum
+Occasions : 2
+Values : 
+count    2.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: h_m, dtype: float64
+
+count    2.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: diam_tronc, dtype: float64
+
+count    2.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.95
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Hedera helix
+Occasions : 2
+Values : 
+count    2.0
+mean     2.5
+std      0.0
+min      2.5
+25%      2.5
+50%      2.5
+75%      2.5
+max      2.5
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=2.5
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Buxus sempervirens
+Occasions : 16
+Values : 
+count    13.000000
+mean      1.830769
+std       0.372793
+min       1.000000
+25%       2.000000
+50%       2.000000
+75%       2.000000
+max       2.000000
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=1.830769230769231
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Cornus nuttallii
+Occasions : 1
+Values : 
+count    1.0
+mean     3.5
+std      NaN
+min      3.5
+25%      3.5
+50%      3.5
+75%      3.5
+max      3.5
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=3.5
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Lonicera
+Occasions : 3
+Values : 
+count    3.0
+mean     1.5
+std      0.0
+min      1.5
+25%      1.5
+50%      1.5
+75%      1.5
+max      1.5
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=1.5
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Philadelphus pubescens
+Occasions : 2
+Values : 
+count    2.000000
+mean     2.500000
+std      0.707107
+min      2.000000
+25%      2.250000
+50%      2.500000
+75%      2.750000
+max      3.000000
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=2.5
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Parthenocissus
+Occasions : 13
+Values : 
+count    13.0
+mean      3.0
+std       0.0
+min       3.0
+25%       3.0
+50%       3.0
+75%       3.0
+max       3.0
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=3.0
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Juniperus chinensis
+Occasions : 6
+Values : 
+count    6.0
+mean     2.5
+std      0.0
+min      2.5
+25%      2.5
+50%      2.5
+75%      2.5
+max      2.5
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=2.5
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Pittosporum tobira
+Occasions : 3
+Values : 
+count    2.000000
+mean     1.650000
+std      0.212132
+min      1.500000
+25%      1.575000
+50%      1.650000
+75%      1.725000
+max      1.800000
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    1.0
+mean     2.0
+std      NaN
+min      2.0
+25%      2.0
+50%      2.0
+75%      2.0
+max      2.0
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=1.65
+widthMean=28.23
+crownWidthMean=2.0
+
+
+
+Analyzed species : Elaeagnus
+Occasions : 9
+Values : 
+count    1.0
+mean     1.0
+std      NaN
+min      1.0
+25%      1.0
+50%      1.0
+75%      1.0
+max      1.0
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=1.0
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Spiraea japonica
+Occasions : 2
+Values : 
+count    2.0
+mean     1.0
+std      0.0
+min      1.0
+25%      1.0
+50%      1.0
+75%      1.0
+max      1.0
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=1.0
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Osmanthus fragrans
+Occasions : 3
+Values : 
+count    2.000000
+mean     2.500000
+std      0.707107
+min      2.000000
+25%      2.250000
+50%      2.500000
+75%      2.750000
+max      3.000000
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=2.5
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Spiraea
+Occasions : 4
+Values : 
+count    3.000000
+mean     1.266667
+std      0.461880
+min      1.000000
+25%      1.000000
+50%      1.000000
+75%      1.400000
+max      1.800000
+Name: h_m, dtype: float64
+
+count     2.00
+mean     28.23
+std       0.00
+min      28.23
+25%      28.23
+50%      28.23
+75%      28.23
+max      28.23
+Name: diam_tronc, dtype: float64
+
+count    2.00
+mean     5.26
+std      0.00
+min      5.26
+25%      5.26
+50%      5.26
+75%      5.26
+max      5.26
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=1.2666666666666666
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Rhododendron obtusum
+Occasions : 3
+Values : 
+count    2.0
+mean     0.5
+std      0.0
+min      0.5
+25%      0.5
+50%      0.5
+75%      0.5
+max      0.5
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=0.5
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Calycanthus
+Occasions : 2
+Values : 
+count    2.0
+mean     1.5
+std      0.0
+min      1.5
+25%      1.5
+50%      1.5
+75%      1.5
+max      1.5
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=1.5
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Zanthoxylum flavum
+Occasions : 1
+Values : 
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.95
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Viburnum
+Occasions : 4
+Values : 
+count    2.00
+mean     7.95
+std      0.00
+min      7.95
+25%      7.95
+50%      7.95
+75%      7.95
+max      7.95
+Name: h_m, dtype: float64
+
+count     2.00
+mean     28.23
+std       0.00
+min      28.23
+25%      28.23
+50%      28.23
+75%      28.23
+max      28.23
+Name: diam_tronc, dtype: float64
+
+count    2.00
+mean     5.26
+std      0.00
+min      5.26
+25%      5.26
+50%      5.26
+75%      5.26
+max      5.26
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.95
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Syringa vulgaris
+Occasions : 1
+Values : 
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.95
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Forsythia viridissima
+Occasions : 1
+Values : 
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.95
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Elaeagnus pungens
+Occasions : 7
+Values : 
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.95
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Aucuba japonica
+Occasions : 2
+Values : 
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.95
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Salix magnifica
+Occasions : 3
+Values : 
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.95
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Philadelphus
+Occasions : 5
+Values : 
+count    2.000000
+mean     2.500000
+std      0.707107
+min      2.000000
+25%      2.250000
+50%      2.500000
+75%      2.750000
+max      3.000000
+Name: h_m, dtype: float64
+
+count     2.00
+mean     28.23
+std       0.00
+min      28.23
+25%      28.23
+50%      28.23
+75%      28.23
+max      28.23
+Name: diam_tronc, dtype: float64
+
+count    2.00
+mean     5.26
+std      0.00
+min      5.26
+25%      5.26
+50%      5.26
+75%      5.26
+max      5.26
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=2.5
+widthMean=28.23
+crownWidthMean=5.26
+
+
+
+Analyzed species : Forsythia x intermedia
+Occasions : 1
+Values : 
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: h_m, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_tronc, dtype: float64
+
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: diam_chiom, dtype: float64
+
+Values to use :
+heightMean=7.95
+widthMean=28.23
+crownWidthMean=5.26
+
+

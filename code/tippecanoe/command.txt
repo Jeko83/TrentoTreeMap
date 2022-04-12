@@ -1,0 +1,1 @@
+tippecanoe -z21 -Z6 -d13 --output-to-directory pbf --drop-densest-as-needed --extend-zooms-if-still-dropping --no-tile-compression geo_data_trees.geojson
