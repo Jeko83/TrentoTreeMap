@@ -13,6 +13,9 @@ import {GiRaining} from 'react-icons/gi'
 import {AiFillCar} from 'react-icons/ai'
 
 export default function BenefitGrid(props) {
+
+    const format = num => String(num).replace(/(?<!\..*)(\d)(?=(?:\d{3})+(?:\.|$))/g, '$1,')
+
     return (
         <Grid
             container
@@ -64,10 +67,10 @@ export default function BenefitGrid(props) {
                                 Inquinamento rimosso
                             </Typography>
                             <Typography sx={{textAlign : 'center', fontSize: 17, fontWeight: "bold"}} color="text.secondary">
-                                {(props.totalInfo['Pollution Removal (g/yr)']/1000.0).toFixed(2) + ' kg'}
+                                {format((props.totalInfo['Pollution Removal (g/yr)']/1000.0).toFixed(2)) + ' kg'}
                             </Typography>
                             <Typography sx={{textAlign : 'center', fontSize: 14}} color="text.secondary">
-                                {props.totalInfo['Pollution Removal (eur/yr)'].toFixed(2) + '€'}
+                                {format(props.totalInfo['Pollution Removal (eur/yr)'].toFixed(2)) + '€'}
                             </Typography>
                         </div>
                     </Grid>
@@ -87,10 +90,10 @@ export default function BenefitGrid(props) {
                                 CO2 assorbita
                             </Typography>
                             <Typography sx={{textAlign : 'center', fontSize: 17, fontWeight: "bold"}} color="text.secondary">
-                                {props.totalInfo['Gross Carbon Sequestration (kg/yr)'].toFixed(2) + ' kg'}
+                                {format(props.totalInfo['Gross Carbon Sequestration (kg/yr)'].toFixed(2)) + ' kg'}
                             </Typography>
                             <Typography sx={{textAlign : 'center', fontSize: 14}} color="text.secondary">
-                                {props.totalInfo['Gross Carbon Sequestration (eur/yr)'].toFixed(2) + '€'}
+                                {format(props.totalInfo['Gross Carbon Sequestration (eur/yr)'].toFixed(2)) + '€'}
                             </Typography>
                         </div>
                     </Grid>
@@ -110,10 +113,10 @@ export default function BenefitGrid(props) {
                                 Acqua assorbita
                             </Typography>
                             <Typography sx={{textAlign : 'center', fontSize: 17, fontWeight: "bold"}} color="text.secondary">
-                                {(props.totalInfo['Avoided Runoff (mcube/yr)']*1000.0).toFixed(2) + ' kg'}
+                                {format((props.totalInfo['Avoided Runoff (mcube/yr)']*1000.0).toFixed(2)) + ' kg'}
                             </Typography>
                             <Typography sx={{textAlign : 'center', fontSize: 14}} color="text.secondary">
-                                {props.totalInfo['Avoided Runoff (eur/yr)'].toFixed(2) + '€'}
+                                {format(props.totalInfo['Avoided Runoff (eur/yr)'].toFixed(2)) + '€'}
                             </Typography>
                         </div>
                     </Grid>
@@ -143,10 +146,10 @@ export default function BenefitGrid(props) {
                                     Inquinamento rimosso
                                 </Typography>
                                 <Typography sx={{textAlign : 'center', fontSize: 16, fontWeight: "bold"}} color="text.secondary">
-                                    {(props.totalInfo['Pollution Removal (g/yr)']/1000.0).toFixed(2) + ' chili'}
+                                    {format((props.totalInfo['Pollution Removal (g/yr)']/1000.0).toFixed(2)) + ' chili'}
                                 </Typography>
                                 <Typography sx={{textAlign : 'center', fontSize: 14}} color="text.secondary">
-                                    {props.totalInfo['Pollution Removal (eur/yr)'].toFixed(2) + '€'}
+                                    {format(props.totalInfo['Pollution Removal (eur/yr)'].toFixed(2)) + '€'}
                                 </Typography>
                             </div>
                         </Grid>

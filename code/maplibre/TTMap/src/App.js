@@ -163,9 +163,9 @@ function App() {
         <Button variant="contained" onClick={showAbout} startIcon={<IoIosPeople />} 
           sx={{
             position: "absolute",
-            backgroundColor:'#5dee70b8',
+            backgroundColor:'#42dd57b8',
             "&:hover": {
-                backgroundColor: "#5bd06aed",
+                backgroundColor: "#30db47e6",
             },
             right: 0,
             bottom: 0,

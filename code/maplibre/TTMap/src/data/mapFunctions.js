@@ -9,9 +9,10 @@ async function fetchJson(url){
 
 export async function fetchProps() {
     console.log("Fetching props")
-    let propTrees = await fetchJson(window.location.origin + "/geo_data_trees.geojson")
-    let propCircoscrizioni = await fetchJson(window.location.origin + "/circoscrizioni.json")
-    let propPoliSociali = await fetchJson(window.location.origin + "/poli_sociali.json")
+    //console.log(window.location)
+    let propTrees = await fetchJson(window.location.href + "/geo_data_trees.geojson")
+    let propCircoscrizioni = await fetchJson(window.location.href + "/circoscrizioni.json")
+    let propPoliSociali = await fetchJson(window.location.href + "/poli_sociali.json")
     return [propTrees,propCircoscrizioni,propPoliSociali]
 }
 

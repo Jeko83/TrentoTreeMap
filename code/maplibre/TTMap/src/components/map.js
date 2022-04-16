@@ -320,7 +320,7 @@ export default function Map(props) {
         });
 
         map.current.on("click", "TreesLayer", (e) => {
-            //e.preventDefault();
+            e.preventDefault();
             map.current.getCanvas().style.cursor = "";
             //console.log("albero cliccato")
             //console.log(e.features[0])
@@ -389,9 +389,9 @@ export default function Map(props) {
             popUpIsOpen = true
             popup.setLngLat(features.geometry.coordinates).setHTML(
                 "<div>" +
-                    features.properties.Name +
+                    '<b>' + features.properties.Name + '</b>' +
                     "<br/>" +
-                    '<p>Larghezza: ' + features.properties['DBH (cm)'] + 'cm</p>' +
+                    '<p>Tree ID: ' + features.properties['Tree ID'] + '</p>' +
                 "</div>"
             ).addTo(map.current);
             
