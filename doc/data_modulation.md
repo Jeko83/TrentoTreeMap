@@ -2,7 +2,7 @@
 
 ## Premessa
 Gli script Python servono a cambiare la struttura dei dati che abbiamo preso direttamente dal Comune di Trento.<br/>
-Per avere successo con la conversione, guardare la struttura iniziale dei file presenti csv/xls/xlsx all' interno di [Data](data).
+Per avere successo con la conversione, guardare la struttura iniziale dei file presenti csv/xls/xlsx all' interno di [Data](/../../tree/master/data).
 
 ## Script 1
 Il file [datasetFixer.ipynb](/../../tree/master/code/datasetFixer.ipynb) e' un file scritto in Jupyter che analizza il dataset iniziale di 'alberi_trento.xls' e lo combina con la lista delle specie valide di ITreeTools.<br/>
