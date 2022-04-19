@@ -12,3 +12,4 @@ Dati di input e di output
 
 ### [Website](https://jeko83.github.io/TrentoTreeMap/)
 
+![](https://raw.githubusercontent.com/napo/TrentoTreeMap/master/images/preview.gif)
